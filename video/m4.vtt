@@ -1,0 +1,585 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.900
+But yeah, vehicles are very long.
+
+2
+00:00:00.900 --> 00:00:02.900
+They have long complex development cycles.
+
+3
+00:00:02.900 --> 00:00:04.900
+And now that you're adding things like the legislation
+
+4
+00:00:04.900 --> 00:00:07.900
+and compliance activities to that, it gets a little bit longer,
+
+5
+00:00:07.900 --> 00:00:09.900
+and there's a lot more that has to go into there.
+
+6
+00:00:09.900 --> 00:00:14.900
+And also something big I want to mention is this is still a very niche industry.
+
+7
+00:00:14.900 --> 00:00:16.900
+It's only really been around for about 10 or so years.
+
+8
+00:00:16.900 --> 00:00:20.900
+And I'll talk a little bit about the timeline in just a second, right?
+
+9
+00:00:20.900 --> 00:00:26.700
+So a long time ago, when they began to incorporate electronics
+
+10
+00:00:26.700 --> 00:00:29.700
+into vehicles and the vehicle networking and older technologies
+
+11
+00:00:29.700 --> 00:00:32.700
+like the CAN bus in the 1980s, this is really when people started
+
+12
+00:00:32.700 --> 00:00:34.700
+experimenting with their cars as computers
+
+13
+00:00:34.700 --> 00:00:36.700
+and learning about the networking technologies
+
+14
+00:00:36.700 --> 00:00:38.700
+and the software that's used in vehicles.
+
+15
+00:00:38.700 --> 00:00:42.700
+And this is my own personal reflection of the way this went.
+
+16
+00:00:42.700 --> 00:00:44.700
+This is not an official published timeline or anything, right?
+
+17
+00:00:44.700 --> 00:00:46.700
+But I like to call this the prehistoric era.
+
+18
+00:00:46.700 --> 00:00:49.700
+As people were doing cybersecurity research on vehicles,
+
+19
+00:00:49.700 --> 00:00:52.700
+finding vulnerabilities, quirks in the way these networks operated.
+
+20
+00:00:52.700 --> 00:00:56.700
+Oh, hey, CAN bus has no source address, has no destination,
+
+21
+00:00:57.700 --> 00:00:59.700
+no encryption, no authentication.
+
+22
+00:00:59.700 --> 00:01:00.700
+This is kind of funny.
+
+23
+00:01:00.700 --> 00:01:03.700
+It's like, well, yeah, but it's a wired network.
+
+24
+00:01:03.700 --> 00:01:05.700
+You can't actually hack it from outside the car.
+
+25
+00:01:05.700 --> 00:01:07.700
+So the only way you could hack a CAN bus
+
+26
+00:01:07.700 --> 00:01:09.700
+is by getting physical access to the vehicle.
+
+27
+00:01:09.700 --> 00:01:11.700
+And at that point, you're already inside the car.
+
+28
+00:01:11.700 --> 00:01:13.700
+So who cares, right?
+
+29
+00:01:13.700 --> 00:01:17.700
+And this is a very real stance the industry had taken.
+
+30
+00:01:17.700 --> 00:01:23.700
+Until July 21, 2015, is what I like to call the ground zero
+
+31
+00:01:23.700 --> 00:01:25.700
+for the automotive cybersecurity industry.
+
+32
+00:01:25.700 --> 00:01:27.700
+This is an event called the Jeep Hack.
+
+33
+00:01:27.700 --> 00:01:29.700
+If you Google Jeep Hack,
+
+34
+00:01:29.700 --> 00:01:31.700
+and many of you may have already heard of this before,
+
+35
+00:01:35.200 --> 00:01:38.200
+you can find some news articles and YouTube videos
+
+36
+00:01:38.200 --> 00:01:40.200
+published by Wired, Wired Magazine,
+
+37
+00:01:40.200 --> 00:01:43.200
+in which they actually interviewed two security researchers
+
+38
+00:01:43.200 --> 00:01:47.200
+who spent two years reverse engineering
+
+39
+00:01:47.200 --> 00:01:50.200
+and studying the computer systems
+
+40
+00:01:50.200 --> 00:01:52.200
+and the cloud system of the Uconnect
+
+41
+00:01:52.200 --> 00:01:56.200
+that was using the Jeep vehicle line
+
+42
+00:01:56.200 --> 00:01:58.200
+for about two years.
+
+43
+00:01:58.200 --> 00:02:01.200
+And they found that there were so many vulnerabilities
+
+44
+00:02:01.200 --> 00:02:04.200
+in the design and implementation of the technologies
+
+45
+00:02:04.200 --> 00:02:06.200
+used in these Jeep Wranglers,
+
+46
+00:02:06.200 --> 00:02:08.200
+or excuse me, the Jeep Cherokees,
+
+47
+00:02:08.200 --> 00:02:10.200
+that they could actually remotely control
+
+48
+00:02:10.200 --> 00:02:12.200
+and kill the engine of a Jeep Cherokee
+
+49
+00:02:12.200 --> 00:02:14.200
+from anywhere in the United States
+
+50
+00:02:14.200 --> 00:02:16.200
+without ever touching the vehicle.
+
+51
+00:02:16.200 --> 00:02:18.200
+All they needed to know was the vehicle's VIN,
+
+52
+00:02:18.200 --> 00:02:20.200
+the vehicle identification number,
+
+53
+00:02:20.200 --> 00:02:22.200
+and they could commit this kind of like DOS attack
+
+54
+00:02:22.200 --> 00:02:24.200
+without ever laying a finger on the vehicle.
+
+55
+00:02:25.200 --> 00:02:28.200
+This kind of shook up the whole industry, right?
+
+56
+00:02:28.200 --> 00:02:31.200
+I think that at the time, FCA, Fiat Chrysler,
+
+57
+00:02:31.200 --> 00:02:33.200
+tried to basically pay off the researchers,
+
+58
+00:02:33.200 --> 00:02:35.200
+like we'll give you each a million dollars,
+
+59
+00:02:35.200 --> 00:02:37.200
+do not publish this research kind of thing.
+
+60
+00:02:37.200 --> 00:02:38.200
+And they kind of went louder than anybody.
+
+61
+00:02:38.200 --> 00:02:40.200
+They said, no.
+
+62
+00:02:40.200 --> 00:02:43.200
+So we have now the modern automotive cybersecurity industry
+
+63
+00:02:43.200 --> 00:02:45.200
+thanks to their bravery.
+
+64
+00:02:45.200 --> 00:02:46.200
+And I think what they did was very important.
+
+65
+00:02:46.200 --> 00:02:48.200
+They went ahead with the responsible disclosure.
+
+66
+00:02:48.200 --> 00:02:50.200
+They informed the manufacturers
+
+67
+00:02:50.200 --> 00:02:52.200
+that they had found these vulnerabilities.
+
+68
+00:02:52.200 --> 00:02:53.200
+They had them fixed before they published this.
+
+69
+00:02:53.200 --> 00:02:55.200
+But they weren't doing this work under NDA.
+
+70
+00:02:55.200 --> 00:02:57.200
+They were doing this as independent research.
+
+71
+00:02:57.200 --> 00:02:59.200
+And so they did not have the obligation
+
+72
+00:02:59.200 --> 00:03:02.200
+that they had to keep their findings secret,
+
+73
+00:03:02.200 --> 00:03:04.200
+which is kind of a quirk about working in this industry,
+
+74
+00:03:04.200 --> 00:03:07.200
+depending on how you want to do testing on these.
+
+75
+00:03:07.200 --> 00:03:10.200
+But after this, you had kind of like a panic or gold rush
+
+76
+00:03:10.200 --> 00:03:13.200
+where everyone's trying to figure out how to secure vehicles.
+
+77
+00:03:13.200 --> 00:03:16.200
+Companies are making solutions for in-vehicle network,
+
+78
+00:03:16.200 --> 00:03:18.200
+intrusion detection systems,
+
+79
+00:03:18.200 --> 00:03:20.200
+intrusion prevention systems, et cetera.
+
+80
+00:03:20.200 --> 00:03:21.200
+A lot of those companies still exist,
+
+81
+00:03:21.200 --> 00:03:25.200
+and a lot of them have products that work to some degree.
+
+82
+00:03:25.200 --> 00:03:27.200
+But no one really knew what they were doing.
+
+83
+00:03:27.200 --> 00:03:31.200
+And the automotive industry wasn't very eager
+
+84
+00:03:31.200 --> 00:03:33.200
+to accept cybersecurity
+
+85
+00:03:33.200 --> 00:03:36.200
+because they didn't really understand its value
+
+86
+00:03:36.200 --> 00:03:38.200
+and because this is very relevant
+
+87
+00:03:38.200 --> 00:03:40.200
+to the way the automotive industry works.
+
+88
+00:03:40.200 --> 00:03:43.200
+There's no compulsion
+
+89
+00:03:43.200 --> 00:03:46.200
+or kind of mandatory motivation
+
+90
+00:03:46.200 --> 00:03:49.200
+for them to invest in cybersecurity.
+
+91
+00:03:50.200 --> 00:03:52.200
+To give some context, at the time,
+
+92
+00:03:52.200 --> 00:03:54.200
+during the years of 2017, 2018,
+
+93
+00:03:54.200 --> 00:03:56.200
+I was working for a small company
+
+94
+00:03:56.200 --> 00:03:58.200
+that was started in Japan,
+
+95
+00:03:58.200 --> 00:04:00.200
+and we were doing cybersecurity for vehicles.
+
+96
+00:04:00.200 --> 00:04:02.200
+We had invented some encryption technology
+
+97
+00:04:02.200 --> 00:04:04.200
+for vehicle network systems.
+
+98
+00:04:04.200 --> 00:04:06.200
+That was kind of novel and very lightweight
+
+99
+00:04:06.200 --> 00:04:07.200
+and very applicable.
+
+100
+00:04:07.200 --> 00:04:09.200
+And basically, we had a whole meeting
+
+101
+00:04:09.200 --> 00:04:12.200
+with one of the higher-ups in Toyota Motor Company.
+
+102
+00:04:12.200 --> 00:04:14.200
+And we showed them the demos
+
+103
+00:04:14.200 --> 00:04:16.200
+and the examples of how vehicles can be hacked
+
+104
+00:04:16.200 --> 00:04:18.200
+and how this is a serious safety risk.
+
+105
+00:04:18.200 --> 00:04:20.200
+And, you know, the guy basically told us,
+
+106
+00:04:20.200 --> 00:04:21.200
+like, this is incredible, you know,
+
+107
+00:04:21.200 --> 00:04:24.200
+very amazing technologically, very cool,
+
+108
+00:04:24.200 --> 00:04:26.200
+but I'm not going to spend a penny on this
+
+109
+00:04:26.200 --> 00:04:28.200
+until the government says that I have to.
+
+110
+00:04:28.200 --> 00:04:30.200
+And because that's kind of the way
+
+111
+00:04:30.200 --> 00:04:31.200
+the automotive industry works.
+
+112
+00:04:31.200 --> 00:04:33.200
+And I think many other industries do this too,
+
+113
+00:04:33.200 --> 00:04:35.200
+but especially because for the automotive industry,
+
+114
+00:04:35.200 --> 00:04:38.200
+you know, they have very strict safety guidelines.
+
+115
+00:04:38.200 --> 00:04:40.200
+And when it comes to automotive safety testing and stuff,
+
+116
+00:04:40.200 --> 00:04:42.200
+it's very much a,
+
+117
+00:04:42.200 --> 00:04:44.200
+you do it once, and it's kind of done.
+
+118
+00:04:44.200 --> 00:04:46.200
+You can do it properly, and it's safe.
+
+119
+00:04:46.200 --> 00:04:48.200
+They've got functional safety standards
+
+120
+00:04:48.200 --> 00:04:50.200
+that, like, once you pass those standards,
+
+121
+00:04:50.200 --> 00:04:53.200
+they're very good, they're very well established.
+
+122
+00:04:53.200 --> 00:04:55.200
+There's not a lot of risk of, like,
+
+123
+00:04:55.200 --> 00:04:56.200
+safety problems popping up later.
+
+124
+00:04:56.200 --> 00:04:58.200
+As opposed to cybersecurity,
+
+125
+00:04:58.200 --> 00:05:00.200
+an industry where new vulnerabilities
+
+126
+00:05:00.200 --> 00:05:01.200
+are discovered every single day,
+
+127
+00:05:01.200 --> 00:05:03.200
+new attack patterns are discovered every single day,
+
+128
+00:05:03.200 --> 00:05:05.200
+we find, oh, hey, supply chain attack.
+
+129
+00:05:05.200 --> 00:05:07.200
+This, you know, piece of software
+
+130
+00:05:07.200 --> 00:05:09.200
+has been maintained by this one dude by himself.
+
+131
+00:05:09.200 --> 00:05:11.200
+Well, someone started adding code
+
+132
+00:05:11.200 --> 00:05:13.200
+that was malicious and obfuscated,
+
+133
+00:05:13.200 --> 00:05:15.200
+and every version of the operating system
+
+134
+00:05:15.200 --> 00:05:17.200
+from this year on forward has this vulnerability.
+
+135
+00:05:17.200 --> 00:05:19.200
+These kind of things, you know, pop up in cybersecurity,
+
+136
+00:05:19.200 --> 00:05:21.200
+and it's very much a dynamic activity.
+
+137
+00:05:21.200 --> 00:05:23.200
+It's not just a do it once and it's done.
+
+138
+00:05:23.200 --> 00:05:25.200
+It's a kind of a, you know,
+
+139
+00:05:25.200 --> 00:05:27.200
+very different type of activity
+
+140
+00:05:27.200 --> 00:05:29.200
+from what the automotive industry was used to.
+
+141
+00:05:29.200 --> 00:05:31.200
+And because there was no legislation
+
+142
+00:05:31.200 --> 00:05:33.200
+or legal motivation for them to kind of invest
+
+143
+00:05:33.200 --> 00:05:35.200
+in this industry,
+
+144
+00:05:35.200 --> 00:05:37.200
+it was very much,
+
+145
+00:05:37.200 --> 00:05:39.200
+do we really need it?
+
+146
+00:05:39.200 --> 00:05:40.000
+I don't really think we do kind of thing.

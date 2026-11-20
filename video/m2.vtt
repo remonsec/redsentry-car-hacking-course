@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.900
+what a vehicle could do,
+
+2
+00:00:00.900 --> 00:00:03.900
+you began to see people start hacking their cars.
+
+3
+00:00:03.900 --> 00:00:07.900
+And this kind of car hacking really started a very long time ago.
+
+4
+00:00:07.900 --> 00:00:09.900
+It started with people who wanted to modify
+
+5
+00:00:09.900 --> 00:00:11.900
+the way their vehicles worked.
+
+6
+00:00:11.900 --> 00:00:15.900
+They wanted to either improve fuel performance
+
+7
+00:00:15.900 --> 00:00:18.900
+or remove speed or RPM limitations
+
+8
+00:00:18.900 --> 00:00:21.900
+or modify the way their dashboard looked or something.
+
+9
+00:00:21.900 --> 00:00:25.900
+A lot of hobbyist people started hacking their cars back in the day
+
+10
+00:00:25.900 --> 00:00:29.900
+because they wanted to get more personalized experiences
+
+11
+00:00:29.900 --> 00:00:33.900
+or get specific functionality that maybe the manufacturer had unlocked
+
+12
+00:00:33.900 --> 00:00:34.900
+inside the vehicle.
+
+13
+00:00:34.900 --> 00:00:36.900
+And what they would do is they would actually try
+
+14
+00:00:36.900 --> 00:00:38.900
+and reverse engineer the firmware running on these ECUs.
+
+15
+00:00:38.900 --> 00:00:42.900
+They would modify them to be able to do other functions.
+
+16
+00:00:42.900 --> 00:00:44.900
+And then they would reflash them to the car.
+
+17
+00:00:44.900 --> 00:00:45.900
+We would call this chip tuning.
+
+18
+00:00:45.900 --> 00:00:47.900
+It's a huge community of people who do chip tuning
+
+19
+00:00:47.900 --> 00:00:49.900
+all over the world, different parts of the world.
+
+20
+00:00:49.900 --> 00:00:52.900
+And it's kind of originally started as something for hobbyists
+
+21
+00:00:52.900 --> 00:00:55.900
+and people who just wanted to modify their cars at their will.
+
+22
+00:00:55.900 --> 00:00:58.900
+But there's also kind of more nefarious purposes for this.
+
+23
+00:00:58.900 --> 00:01:01.900
+I think one of these is emissions regulation circumvention.
+
+24
+00:01:01.900 --> 00:01:04.900
+So a little bit of a side tangent,
+
+25
+00:01:04.900 --> 00:01:08.900
+maybe if you're familiar with the heavy-duty diesel trucking industries.
+
+26
+00:01:08.900 --> 00:01:10.900
+These heavy-duty diesel trucks,
+
+27
+00:01:10.900 --> 00:01:13.900
+they have a lot of emissions control regulations
+
+28
+00:01:13.900 --> 00:01:15.900
+and rules you have to follow.
+
+29
+00:01:15.900 --> 00:01:18.900
+You have to fill a separate tank.
+
+30
+00:01:18.900 --> 00:01:20.900
+You have your gas tank for your truck.
+
+31
+00:01:20.900 --> 00:01:22.900
+You also have a tank of a fluid called DEF.
+
+32
+00:01:22.900 --> 00:01:26.900
+And what it's used for is it's sprayed into your exhaust system
+
+33
+00:01:26.900 --> 00:01:30.900
+to actually provide a chemical reaction with the exhaust,
+
+34
+00:01:30.900 --> 00:01:34.900
+the nitrous oxide coming out of your car or your truck.
+
+35
+00:01:34.900 --> 00:01:37.900
+And it reduces the harm that you do to the atmosphere and the environment.
+
+36
+00:01:37.900 --> 00:01:40.900
+And so legally, your truck is not allowed to drive
+
+37
+00:01:40.900 --> 00:01:44.900
+unless your nitrous oxide levels are below a certain degree.
+
+38
+00:01:44.900 --> 00:01:48.900
+So some people in South America, for example, or wherever else,
+
+39
+00:01:48.900 --> 00:01:52.900
+they don't really want to have to spend all this money on this extra fluid.
+
+40
+00:01:52.900 --> 00:01:54.900
+And they want to improve the performance of their trucks.
+
+41
+00:01:54.900 --> 00:01:58.900
+So there are services where you can go online and find them.
+
+42
+00:01:58.900 --> 00:01:59.900
+They're super illegal.
+
+43
+00:01:59.900 --> 00:02:01.900
+But you can find companies who will say,
+
+44
+00:02:01.900 --> 00:02:05.900
+hey, just remove your aftermarket control module.
+
+45
+00:02:05.900 --> 00:02:06.900
+It's ACM.
+
+46
+00:02:06.900 --> 00:02:08.900
+It's the part of the truck that's in charge of this.
+
+47
+00:02:08.900 --> 00:02:09.900
+Mail it to us.
+
+48
+00:02:09.900 --> 00:02:12.900
+We will change the firmware on there.
+
+49
+00:02:12.900 --> 00:02:16.900
+So it doesn't require that kind of ACM from Argentina.
+
+50
+00:02:16.900 --> 00:02:17.900
+Yeah, you definitely know.
+
+51
+00:02:17.900 --> 00:02:19.900
+A lot of these are done out of South America.
+
+52
+00:02:19.900 --> 00:02:22.900
+It's just where it happens to be done.
+
+53
+00:02:22.900 --> 00:02:24.900
+And they will mail it back to you with a modified firmware
+
+54
+00:02:24.900 --> 00:02:29.900
+that no longer has this kind of requirement for this environmental protection.
+
+55
+00:02:29.900 --> 00:02:31.900
+And that saves the person.
+
+56
+00:02:31.900 --> 00:02:33.900
+If you have a whole fleet of trucks you do this for,
+
+57
+00:02:33.900 --> 00:02:37.900
+you save millions of dollars over the year just by polluting the atmosphere more.
+
+58
+00:02:37.900 --> 00:02:39.900
+And it's very hard to police.
+
+59
+00:02:39.900 --> 00:02:41.900
+But it's a thing people do.
+
+60
+00:02:41.900 --> 00:02:46.900
+But then you get onto the more kind of scary side of the car hacking possibilities.
+
+61
+00:02:46.900 --> 00:02:48.900
+Now that we've added things like wireless technologies,
+
+62
+00:02:48.900 --> 00:02:54.900
+we've added cellular networks, Bluetooth, Wi-Fi, wireless tire pressure monitoring.
+
+63
+00:02:54.900 --> 00:02:56.900
+And you've now turned your car into a system.
+
+64
+00:02:56.900 --> 00:02:57.900
+It weighs two tons.
+
+65
+00:02:57.900 --> 00:03:00.900
+It's got people inside, tons of wireless interfaces,
+
+66
+00:03:00.900 --> 00:03:05.900
+millions of lines of code full of vulnerabilities and bugs and third-party software.
+
+67
+00:03:05.900 --> 00:03:08.900
+And no one's really checking any of this.
+
+68
+00:03:08.900 --> 00:03:09.900
+X by wire systems.
+
+69
+00:03:09.900 --> 00:03:14.900
+This is kind of the underlying technology behind autonomy and driving assisting systems.
+
+70
+00:03:14.900 --> 00:03:19.900
+An X by wire system is a system by which the steering or the throttle
+
+71
+00:03:19.900 --> 00:03:22.900
+or the braking is controlled by network traffic.
+
+72
+00:03:22.900 --> 00:03:24.900
+So you can actually send messages on the bus
+
+73
+00:03:24.900 --> 00:03:28.900
+and they will directly impact the operation of the vehicle.
+
+74
+00:03:28.900 --> 00:03:31.900
+That's how a self-driving car controls the car.
+
+75
+00:03:31.900 --> 00:03:33.900
+It sends network messages to those components,
+
+76
+00:03:33.900 --> 00:03:37.900
+which will receive those and then operate the car accordingly.
+
+77
+00:03:37.900 --> 00:03:41.900
+You're putting that control of the vehicle in the computer's hands.
+
+78
+00:03:42.900 --> 00:03:46.900
+And while at that point you introduce the risk of that computer being hacked,
+
+79
+00:03:46.900 --> 00:03:47.900
+what happens?
+
+80
+00:03:47.900 --> 00:03:48.900
+You get a very, very bad situation.
+
+81
+00:03:48.900 --> 00:03:50.900
+What could possibly go wrong?
+
+82
+00:03:50.900 --> 00:03:55.900
+All these vulnerabilities and this code and networks and wireless interfaces
+
+83
+00:03:55.900 --> 00:03:58.900
+implemented by people who aren't really cybersecurity experts.
+
+84
+00:03:58.900 --> 00:04:00.900
+They're working for safety.
+
+85
+00:04:00.900 --> 00:04:05.900
+They're working for efficiency and make sure that their supply chain is efficient and low cost.
+
+86
+00:04:05.900 --> 00:04:10.900
+So I like to describe things when it comes to car hacking in a very simple way.
+
+87
+00:04:10.900 --> 00:04:12.900
+Like the car hacking kill chain.
+
+88
+00:04:12.900 --> 00:04:17.900
+Step one, get inside, find an external interface, get access to the vehicle.
+
+89
+00:04:17.900 --> 00:04:19.900
+Once you're inside the vehicle, you have some leverage,
+
+90
+00:04:19.900 --> 00:04:22.900
+some ability to execute code remotely, escalate privileges,
+
+91
+00:04:22.900 --> 00:04:26.900
+pivot to other parts of the vehicle, and then kind of destroy the world.
+
+92
+00:04:26.900 --> 00:04:29.900
+It's pretty much just exert your will upon the vehicle and its environment,
+
+93
+00:04:29.900 --> 00:04:32.900
+either by controlling the vehicle or by eavesdropping on someone,
+
+94
+00:04:32.900 --> 00:04:37.900
+listen to their conversations inside the car through the microphone in their steering wheel
+
+95
+00:04:37.900 --> 00:04:39.900
+and send those conversations back up to the internet.
+
+96
+00:04:39.900 --> 00:04:42.900
+Ransomware the vehicle, choice is yours.
+
+97
+00:04:42.900 --> 00:04:44.900
+You have an endless number of possibilities.
+
+98
+00:04:44.900 --> 00:04:47.000
+But we're not going to worry too much about the in-depth hacking parts of this today.

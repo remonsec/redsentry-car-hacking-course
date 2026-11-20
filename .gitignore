@@ -1,0 +1,7 @@
+dist/
+dist.zip
+original.mp4
+transcript.txt
+*.log
+.claude/
+node_modules/

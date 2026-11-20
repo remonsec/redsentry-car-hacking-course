@@ -1,0 +1,381 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:00.800
+but I'm just kind of using my materials that I already use.
+
+2
+00:00:00.800 --> 00:00:04.800
+So, let's talk about automotive cybersecurity, right?
+
+3
+00:00:04.800 --> 00:00:07.800
+I'm sure all of you are familiar with the concept of a car
+
+4
+00:00:07.800 --> 00:00:10.800
+and what a car's original intended purpose is, right?
+
+5
+00:00:10.800 --> 00:00:12.800
+The idea is that a vehicle is something you can sit inside
+
+6
+00:00:12.800 --> 00:00:15.800
+and it will take you very quickly from point A to point B.
+
+7
+00:00:15.800 --> 00:00:18.800
+So, traditionally, the most important features of a vehicle
+
+8
+00:00:18.800 --> 00:00:21.800
+are its ability to transport you from one area to another
+
+9
+00:00:21.800 --> 00:00:25.800
+safely, quickly, and comfortably, right?
+
+10
+00:00:25.800 --> 00:00:28.800
+But as automotive technology got more advanced,
+
+11
+00:00:28.800 --> 00:00:31.800
+we began to introduce different technological advances
+
+12
+00:00:31.800 --> 00:00:33.800
+into these vehicles, right?
+
+13
+00:00:33.800 --> 00:00:37.800
+Modern car from the late 1990s, early 2000s, 2010s
+
+14
+00:00:37.800 --> 00:00:42.800
+has a lot of technology for just making your driver experience more pleasant.
+
+15
+00:00:42.800 --> 00:00:44.800
+You have things like GPS, you have navigation,
+
+16
+00:00:44.800 --> 00:00:47.800
+you have the ability to stream music from your cell phone, right?
+
+17
+00:00:47.800 --> 00:00:50.800
+You can pair your cell phone to your car over Bluetooth
+
+18
+00:00:50.800 --> 00:00:53.800
+and you can play the music from your phone on Spotify or YouTube or whatever.
+
+19
+00:00:53.800 --> 00:00:55.800
+It doesn't matter.
+
+20
+00:00:55.800 --> 00:00:58.800
+At the same time, the actual internal vehicle electronics
+
+21
+00:00:58.800 --> 00:01:00.800
+also got a lot more technologically advanced.
+
+22
+00:01:00.800 --> 00:01:04.800
+They became more efficient and they became lighter, right?
+
+23
+00:01:05.800 --> 00:01:08.800
+The introduction of vehicle networking technologies, right?
+
+24
+00:01:08.800 --> 00:01:11.800
+Special networking technologies that are used inside vehicles
+
+25
+00:01:11.800 --> 00:01:14.800
+allowed the manufacturers to save a ton of money
+
+26
+00:01:14.800 --> 00:01:16.800
+on the actual copper used for wiring
+
+27
+00:01:16.800 --> 00:01:19.800
+because instead of having point-to-point-to-point
+
+28
+00:01:19.800 --> 00:01:23.800
+fully populated mesh networks of all the different microcontrollers
+
+29
+00:01:23.800 --> 00:01:26.800
+inside the car, they could use a bus network topology
+
+30
+00:01:26.800 --> 00:01:30.800
+and cut down like maybe 70, 80% of the wiring
+
+31
+00:01:30.800 --> 00:01:32.800
+they needed to put inside the vehicle,
+
+32
+00:01:32.800 --> 00:01:34.800
+which made the vehicles lighter, which made them cheaper,
+
+33
+00:01:34.800 --> 00:01:38.800
+and made them more reliable as these kinds of networking technologies got advanced.
+
+34
+00:01:38.800 --> 00:01:40.800
+And then now if you look at the modern car,
+
+35
+00:01:40.800 --> 00:01:42.900
+you see that we're adding things like cameras,
+
+36
+00:01:42.900 --> 00:01:44.900
+we're adding things like LiDAR sensors,
+
+37
+00:01:44.900 --> 00:01:47.900
+long-range cellular networking technology, right?
+
+38
+00:01:47.900 --> 00:01:51.900
+Wi-Fi, the ability to run a Wi-Fi hotspot from inside your car.
+
+39
+00:01:51.900 --> 00:01:53.900
+I actually don't own a car here in Japan, funnily enough.
+
+40
+00:01:53.900 --> 00:01:54.900
+I just don't really need one.
+
+41
+00:01:54.900 --> 00:01:56.900
+I kind of take the train everywhere I need to go.
+
+42
+00:01:57.900 --> 00:02:02.900
+But even my car back in the United States
+
+43
+00:02:02.900 --> 00:02:04.900
+has the option to create a Wi-Fi hotspot
+
+44
+00:02:04.900 --> 00:02:06.900
+where you'll use the cellular subscription
+
+45
+00:02:06.900 --> 00:02:09.900
+that you pay your manufacturer for
+
+46
+00:02:09.900 --> 00:02:12.900
+to actually create a Wi-Fi network local to your vehicle
+
+47
+00:02:12.900 --> 00:02:15.900
+so that when you're driving across town,
+
+48
+00:02:15.900 --> 00:02:17.900
+your kids want to watch Netflix on their iPads,
+
+49
+00:02:17.900 --> 00:02:19.900
+they can do that, right?
+
+50
+00:02:19.900 --> 00:02:22.900
+And that kind of user-facing convenience technology
+
+51
+00:02:22.900 --> 00:02:26.900
+is really the driving force behind a lot of these advancements
+
+52
+00:02:26.900 --> 00:02:28.900
+in vehicle networking and connectivity.
+
+53
+00:02:28.900 --> 00:02:31.900
+Of course, it also includes things like self-driving cars,
+
+54
+00:02:31.900 --> 00:02:33.900
+which are a huge industry of their own, right?
+
+55
+00:02:33.900 --> 00:02:36.900
+And now you have self-driving cars that have no drivers inside them.
+
+56
+00:02:36.900 --> 00:02:37.900
+You have the robo-taxis.
+
+57
+00:02:37.900 --> 00:02:39.900
+You can see them in different parts of the United States
+
+58
+00:02:39.900 --> 00:02:42.900
+and very soon here in Japan, actually.
+
+59
+00:02:42.900 --> 00:02:46.900
+And all of these additions of technology to a vehicle
+
+60
+00:02:46.900 --> 00:02:51.900
+turn it into something that what used to be like a big metal cage,
+
+61
+00:02:51.900 --> 00:02:53.900
+which is wheels on an engine,
+
+62
+00:02:53.900 --> 00:02:56.900
+is now a bunch of computers on, like I said, wheels.
+
+63
+00:02:56.900 --> 00:02:58.900
+And this complexity introduced
+
+64
+00:02:58.900 --> 00:03:00.900
+and the amount of software that's running inside these vehicles
+
+65
+00:03:00.900 --> 00:03:03.900
+has introduced a large volume of vulnerabilities.
+
+66
+00:03:03.900 --> 00:03:05.900
+The average vehicle today has, I believe,
+
+67
+00:03:05.900 --> 00:03:07.900
+like two, three hundred million lines of code
+
+68
+00:03:07.900 --> 00:03:09.900
+running inside the car, right?
+
+69
+00:03:09.900 --> 00:03:11.900
+And this code is running on the ECUs, we call them,
+
+70
+00:03:11.900 --> 00:03:13.900
+or the electronic control units, right?
+
+71
+00:03:13.900 --> 00:03:15.900
+What is an ECU?
+
+72
+00:03:15.900 --> 00:03:18.900
+It's part of a car that has a processing unit,
+
+73
+00:03:18.900 --> 00:03:21.900
+different I.O. outputs, different networking going on,
+
+74
+00:03:21.900 --> 00:03:23.900
+and it's in charge of controlling the vehicle
+
+75
+00:03:23.900 --> 00:03:26.900
+and communicating with other parts of the car
+
+76
+00:03:26.900 --> 00:03:31.900
+to basically communicate the status of whatever it's working on, right?
+
+77
+00:03:31.900 --> 00:03:34.900
+So you'll have several ECUs inside your powertrain system
+
+78
+00:03:34.900 --> 00:03:36.900
+that are responsible for actually moving the car,
+
+79
+00:03:36.900 --> 00:03:38.900
+the throttle, the braking, the steering, etc.
+
+80
+00:03:38.900 --> 00:03:39.900
+Yes.
+
+81
+00:03:39.900 --> 00:03:41.900
+ECUs and other parts, yeah.
+
+82
+00:03:41.900 --> 00:03:42.900
+Yes.
+
+83
+00:03:42.900 --> 00:03:43.900
+Any questions?
+
+84
+00:03:43.900 --> 00:03:44.900
+No, no, no.
+
+85
+00:03:44.900 --> 00:03:45.900
+No, no, no, sorry.
+
+86
+00:03:45.900 --> 00:03:48.900
+Yeah, you could even tweak the configuration of the engine,
+
+87
+00:03:48.900 --> 00:03:50.900
+so you can do everything with the ECU.
+
+88
+00:03:50.900 --> 00:03:51.900
+That's cool.
+
+89
+00:03:51.900 --> 00:03:52.900
+Exactly, yeah.
+
+90
+00:03:52.900 --> 00:03:56.900
+And so a lot of that intelligence inside the vehicle
+
+91
+00:03:56.900 --> 00:03:58.900
+is concentrated around these ECUs and their ability
+
+92
+00:03:58.900 --> 00:04:01.900
+to carry out the different functions inside the car.
+
+93
+00:04:01.900 --> 00:04:04.900
+And when these began to be implemented inside vehicles
+
+94
+00:04:04.900 --> 00:04:07.900
+and used where software was really defining
+
+95
+00:04:07.900 --> 00:04:09.000
+what a vehicle could do,

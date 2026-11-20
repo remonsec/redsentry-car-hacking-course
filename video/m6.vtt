@@ -1,0 +1,1269 @@
+WEBVTT
+
+1
+00:00:01.300 --> 00:00:03.300
+My only question is, do these
+
+2
+00:00:03.300 --> 00:00:05.300
+like the UNR and the ISO,
+
+3
+00:00:05.300 --> 00:00:07.300
+do they apply
+
+4
+00:00:07.300 --> 00:00:09.300
+to like
+
+5
+00:00:09.300 --> 00:00:11.300
+the car itself and also the production
+
+6
+00:00:11.300 --> 00:00:13.300
+process, or is it just to
+
+7
+00:00:13.300 --> 00:00:15.300
+the car, let's say, to the
+
+8
+00:00:15.300 --> 00:00:17.300
+end product?
+
+9
+00:00:17.300 --> 00:00:19.300
+Excellent question. Yeah, absolutely. It
+
+10
+00:00:19.300 --> 00:00:21.300
+applies to the production process as well.
+
+11
+00:00:21.300 --> 00:00:23.300
+So if you take a look here,
+
+12
+00:00:23.300 --> 00:00:25.300
+we mentioned the cybersecurity management system.
+
+13
+00:00:25.300 --> 00:00:27.300
+What this means is, this
+
+14
+00:00:27.300 --> 00:00:29.300
+is not like one technical solution.
+
+15
+00:00:29.300 --> 00:00:31.300
+It's not like a type of like technical
+
+16
+00:00:31.300 --> 00:00:33.300
+solution or like CM or something like that.
+
+17
+00:00:33.300 --> 00:00:35.300
+What this means is, you need to demonstrate
+
+18
+00:00:35.300 --> 00:00:37.300
+that your organization
+
+19
+00:00:37.300 --> 00:00:39.300
+understands
+
+20
+00:00:39.300 --> 00:00:41.300
+the cyber
+
+21
+00:00:41.300 --> 00:00:43.300
+risks to your products.
+
+22
+00:00:43.300 --> 00:00:45.300
+You have processes throughout the development
+
+23
+00:00:45.300 --> 00:00:47.300
+life cycle of your vehicle
+
+24
+00:00:47.300 --> 00:00:49.300
+to minimize the cyber risk to your products.
+
+25
+00:00:49.300 --> 00:00:51.300
+You need to do steps. You need to do threat assessment.
+
+26
+00:00:51.300 --> 00:00:53.300
+You need to do penetration testing.
+
+27
+00:00:53.300 --> 00:00:55.300
+You need to establish
+
+28
+00:00:55.300 --> 00:00:57.300
+channels for incident response,
+
+29
+00:00:57.300 --> 00:00:59.300
+reporting, vulnerability disclosure,
+
+30
+00:00:59.300 --> 00:01:01.300
+remediation strategy. You basically
+
+31
+00:01:01.300 --> 00:01:03.300
+need to demonstrate like, hey,
+
+32
+00:01:03.300 --> 00:01:05.300
+as a car manufacturer, we're
+
+33
+00:01:05.300 --> 00:01:07.300
+prepared to take care of the
+
+34
+00:01:07.300 --> 00:01:09.300
+cybersecurity of our products
+
+35
+00:01:09.300 --> 00:01:11.300
+from development to operation
+
+36
+00:01:11.300 --> 00:01:13.300
+to retirement.
+
+37
+00:01:13.300 --> 00:01:15.300
+And so that's not only like technical things,
+
+38
+00:01:15.300 --> 00:01:17.300
+that's also organizational structures as well.
+
+39
+00:01:17.300 --> 00:01:19.300
+That's a really great question. I'm going to show
+
+40
+00:01:19.300 --> 00:01:21.300
+you kind of my, the crown
+
+41
+00:01:21.300 --> 00:01:23.300
+jewel of my,
+
+42
+00:01:23.300 --> 00:01:25.300
+excuse me, eight or so years of doing this
+
+43
+00:01:25.300 --> 00:01:27.300
+shit. And then this
+
+44
+00:01:27.300 --> 00:01:29.300
+is applicable to not only the cars,
+
+45
+00:01:29.300 --> 00:01:31.300
+but kind of like any cyberphysical system, right?
+
+46
+00:01:31.300 --> 00:01:33.300
+And I'm just kind of zooming
+
+47
+00:01:33.300 --> 00:01:35.300
+in through this. This is my own personal
+
+48
+00:01:35.300 --> 00:01:37.300
+model for
+
+49
+00:01:37.300 --> 00:01:39.300
+product cybersecurity
+
+50
+00:01:39.300 --> 00:01:41.300
+and like an end-to-end like
+
+51
+00:01:41.300 --> 00:01:43.300
+cybersecurity management system for
+
+52
+00:01:43.300 --> 00:01:45.300
+any kind of like cyberphysical
+
+53
+00:01:45.300 --> 00:01:47.300
+system, right? It's kind of how
+
+54
+00:01:47.300 --> 00:01:49.300
+I operate when I work with a client. I'm kind of
+
+55
+00:01:49.300 --> 00:01:51.300
+giving you like my, my secret
+
+56
+00:01:51.300 --> 00:01:53.300
+sauce right here, but feel free to use it however
+
+57
+00:01:53.300 --> 00:01:55.300
+you please. But like, and
+
+58
+00:01:55.300 --> 00:01:57.300
+like I said, this is just how I see it
+
+59
+00:01:57.300 --> 00:01:59.300
+as an individual. It's not like
+
+60
+00:01:59.300 --> 00:02:01.300
+an official published like operation
+
+61
+00:02:01.300 --> 00:02:03.300
+guideline or anything. This is just kind of the way that
+
+62
+00:02:03.300 --> 00:02:05.300
+I've come to understand good
+
+63
+00:02:05.300 --> 00:02:07.300
+product cybersecurity over
+
+64
+00:02:07.300 --> 00:02:09.300
+the last couple of years, right?
+
+65
+00:02:09.300 --> 00:02:11.300
+These like activities that you undertake
+
+66
+00:02:11.300 --> 00:02:13.300
+during your design and development and your testing
+
+67
+00:02:13.300 --> 00:02:15.300
+phase, they're, it's very important
+
+68
+00:02:15.300 --> 00:02:17.300
+that they're kind of kept up to date
+
+69
+00:02:17.300 --> 00:02:19.300
+and that they work with one another, right?
+
+70
+00:02:19.300 --> 00:02:21.300
+Because, and I'm going to highlight a little bit here
+
+71
+00:02:21.300 --> 00:02:23.300
+this phrase here, TARA, stands
+
+72
+00:02:23.300 --> 00:02:25.300
+for a threat analysis and risk
+
+73
+00:02:25.300 --> 00:02:27.300
+assessment. This is something that was actually
+
+74
+00:02:27.300 --> 00:02:29.300
+popularized by the ISO
+
+75
+00:02:29.300 --> 00:02:31.300
+21434. It's essentially
+
+76
+00:02:31.300 --> 00:02:33.300
+taking the concept of threat modeling
+
+77
+00:02:33.300 --> 00:02:35.300
+and adding a dimension of impact
+
+78
+00:02:35.300 --> 00:02:37.300
+quantification, right? So you can
+
+79
+00:02:37.300 --> 00:02:39.300
+actually try and quantify risk
+
+80
+00:02:39.300 --> 00:02:41.300
+in the terms of two
+
+81
+00:02:41.300 --> 00:02:43.300
+kind of dimensions, right?
+
+82
+00:02:43.300 --> 00:02:45.300
+The kind of feasibility
+
+83
+00:02:45.300 --> 00:02:47.300
+or probability of an attack taking place
+
+84
+00:02:47.300 --> 00:02:49.300
+and the impact that
+
+85
+00:02:49.300 --> 00:02:51.300
+could take place or I guess be realized
+
+86
+00:02:51.300 --> 00:02:53.300
+in the event a damage
+
+87
+00:02:53.300 --> 00:02:55.300
+scenario is realized, right? And then
+
+88
+00:02:55.300 --> 00:02:57.300
+that impact can be quantified
+
+89
+00:02:57.300 --> 00:02:59.300
+based on safety impact, operational
+
+90
+00:02:59.300 --> 00:03:01.300
+impact, financial impact, privacy
+
+91
+00:03:01.300 --> 00:03:03.300
+impact, cybersecurity impact. There's a lot of
+
+92
+00:03:03.300 --> 00:03:05.300
+flexibility for how you do it, but there's
+
+93
+00:03:05.300 --> 00:03:07.300
+also kind of like cookie cutter. Most
+
+94
+00:03:07.300 --> 00:03:09.300
+companies are doing it like this kind
+
+95
+00:03:09.300 --> 00:03:11.300
+of templates for that. And so this is like one of those
+
+96
+00:03:11.300 --> 00:03:13.300
+very popular
+
+97
+00:03:13.300 --> 00:03:15.300
+activities that a lot of automotive
+
+98
+00:03:15.300 --> 00:03:17.300
+companies have to invest a lot of time into doing
+
+99
+00:03:17.300 --> 00:03:19.300
+is these threat analysis and risk assessments
+
+100
+00:03:19.300 --> 00:03:21.300
+for all the components in their vehicles,
+
+101
+00:03:21.300 --> 00:03:23.300
+right? And making those, you know,
+
+102
+00:03:23.300 --> 00:03:25.300
+accurate. And then linking those to a penetration
+
+103
+00:03:25.300 --> 00:03:27.300
+test, right? When you do a pen
+
+104
+00:03:27.300 --> 00:03:29.300
+test, does it invalidate the findings
+
+105
+00:03:29.300 --> 00:03:31.300
+of your risk assessment?
+
+106
+00:03:31.300 --> 00:03:33.300
+Does it invalidate them? Does it say,
+
+107
+00:03:33.300 --> 00:03:35.300
+hey, you rated this as very low probability
+
+108
+00:03:35.300 --> 00:03:37.300
+of happening, but we were able to
+
+109
+00:03:37.300 --> 00:03:39.300
+perform this kind of attack in like
+
+110
+00:03:39.300 --> 00:03:41.300
+a three week pen test and we were able to
+
+111
+00:03:41.300 --> 00:03:43.300
+fully compromise this unit,
+
+112
+00:03:43.300 --> 00:03:45.300
+get root, whatever, right? Go back
+
+113
+00:03:45.300 --> 00:03:47.300
+and reanalyze and then update your TARA
+
+114
+00:03:47.300 --> 00:03:49.300
+when you need to, for example, right?
+
+115
+00:03:49.300 --> 00:03:51.300
+These kind of things, right? And
+
+116
+00:03:51.300 --> 00:03:53.300
+then of course, that also goes into things like
+
+117
+00:03:53.300 --> 00:03:55.300
+the operational side. You have a security
+
+118
+00:03:55.300 --> 00:03:57.300
+operations center, you need to have
+
+119
+00:03:57.300 --> 00:03:59.300
+threat intelligence, you know, look for the
+
+120
+00:03:59.300 --> 00:04:01.300
+different auto-ISAC
+
+121
+00:04:01.300 --> 00:04:03.300
+or different sources of information for
+
+122
+00:04:03.300 --> 00:04:05.300
+vulnerabilities that are published all over the world,
+
+123
+00:04:05.300 --> 00:04:07.300
+analyze dark web forums,
+
+124
+00:04:07.300 --> 00:04:09.300
+subreddits of people hacking cars and stuff,
+
+125
+00:04:09.300 --> 00:04:11.300
+being able to analyze that information,
+
+126
+00:04:11.300 --> 00:04:13.300
+incorporate it into your security operations.
+
+127
+00:04:13.300 --> 00:04:15.300
+If any of that information constitutes
+
+128
+00:04:15.300 --> 00:04:17.300
+a real incident, how do you
+
+129
+00:04:17.300 --> 00:04:19.300
+respond to that, right? You triage, you validate,
+
+130
+00:04:19.300 --> 00:04:21.300
+is it real or not? You work with the researchers,
+
+131
+00:04:21.300 --> 00:04:23.300
+you know, you have a whole
+
+132
+00:04:23.300 --> 00:04:25.300
+responsible disclosure program, you
+
+133
+00:04:25.300 --> 00:04:27.300
+perform your patching, you do your update,
+
+134
+00:04:27.300 --> 00:04:29.300
+and then you get, you know, you kind of go back in the cycle.
+
+135
+00:04:29.300 --> 00:04:31.300
+It's kind of like a, like a figure eight, right?
+
+136
+00:04:31.300 --> 00:04:33.300
+You can almost imagine like the kind of infinite
+
+137
+00:04:33.300 --> 00:04:35.300
+continuation of this activity.
+
+138
+00:04:35.300 --> 00:04:37.300
+And that's the idea. It's not supposed to be something you do
+
+139
+00:04:37.300 --> 00:04:39.300
+once and it's done. It's cyclical,
+
+140
+00:04:39.300 --> 00:04:41.300
+especially these like operation stage,
+
+141
+00:04:41.300 --> 00:04:43.300
+you know, activities.
+
+142
+00:04:43.300 --> 00:04:45.300
+These are things that go on for the entire
+
+143
+00:04:45.300 --> 00:04:47.300
+life cycle of the vehicle. If you think about
+
+144
+00:04:47.300 --> 00:04:49.300
+like how often you buy a new
+
+145
+00:04:49.300 --> 00:04:51.300
+phone, you know, like one or two
+
+146
+00:04:51.300 --> 00:04:53.300
+years, three years,
+
+147
+00:04:53.300 --> 00:04:55.300
+I'm kind of a four-year guy for each phone,
+
+148
+00:04:55.300 --> 00:04:57.300
+but like a car, when you buy a car, it's like an operation
+
+149
+00:04:57.300 --> 00:04:59.300
+for maybe 10, 15 years.
+
+150
+00:04:59.300 --> 00:05:01.300
+Maybe three, four families like buy and use
+
+151
+00:05:01.300 --> 00:05:03.300
+it for three or four years and then sell it.
+
+152
+00:05:03.300 --> 00:05:05.300
+And so, you know, there's a certain
+
+153
+00:05:05.300 --> 00:05:07.300
+like expectation that the manufacturer
+
+154
+00:05:07.300 --> 00:05:09.300
+has to take care
+
+155
+00:05:09.300 --> 00:05:11.300
+of that vehicle and its cybersecurity
+
+156
+00:05:11.300 --> 00:05:13.300
+for the kind of
+
+157
+00:05:13.300 --> 00:05:15.300
+expected like reasonable life cycle of
+
+158
+00:05:15.300 --> 00:05:17.300
+that vehicle until it's retired, until
+
+159
+00:05:17.300 --> 00:05:19.300
+it's scrapped, right? You have to support security
+
+160
+00:05:19.300 --> 00:05:21.300
+updates until such and
+
+161
+00:05:21.300 --> 00:05:23.300
+such point in time. And so that's
+
+162
+00:05:23.300 --> 00:05:25.300
+why the operations side here is really
+
+163
+00:05:25.300 --> 00:05:27.300
+where a lot of like the
+
+164
+00:05:27.300 --> 00:05:29.300
+work is going off after the
+
+165
+00:05:29.300 --> 00:05:31.300
+vehicle is sold to the consumer, you've got
+
+166
+00:05:31.300 --> 00:05:33.300
+a lot of work to do. You got to make sure that this is up to date.
+
+167
+00:05:33.300 --> 00:05:35.300
+You got to review your incident response
+
+168
+00:05:35.300 --> 00:05:37.300
+procedures, you know, at minimum
+
+169
+00:05:37.300 --> 00:05:39.300
+like once a year or something, depending on
+
+170
+00:05:39.300 --> 00:05:41.300
+where you are and how you define it in your policy.
+
+171
+00:05:41.300 --> 00:05:43.300
+A lot of work on those
+
+172
+00:05:43.300 --> 00:05:45.300
+ends. So this is kind of
+
+173
+00:05:45.300 --> 00:05:47.300
+what I would say is like just my personal
+
+174
+00:05:47.300 --> 00:05:49.300
+philosophy for how I
+
+175
+00:05:49.300 --> 00:05:51.300
+recommend product cybersecurity to my clients.
+
+176
+00:05:51.300 --> 00:05:53.300
+But by no means like
+
+177
+00:05:53.300 --> 00:05:55.300
+an official like best practice or anything.
+
+178
+00:05:56.300 --> 00:05:58.300
+Great. Thank you for the question.
+
+179
+00:05:58.300 --> 00:06:02.800
+Any other questions?
+
+180
+00:06:02.800 --> 00:06:06.400
+I'll say that
+
+181
+00:06:06.400 --> 00:06:08.400
+so based on your experience,
+
+182
+00:06:08.400 --> 00:06:10.400
+where do you see
+
+183
+00:06:10.400 --> 00:06:12.400
+with the threat analysis and
+
+184
+00:06:12.400 --> 00:06:14.400
+those risk assessments,
+
+185
+00:06:14.400 --> 00:06:16.400
+what aspects of the
+
+186
+00:06:16.400 --> 00:06:18.400
+internal terms,
+
+187
+00:06:18.400 --> 00:06:20.400
+the car infrastructure like that,
+
+188
+00:06:20.400 --> 00:06:22.400
+where do you see
+
+189
+00:06:22.400 --> 00:06:24.400
+most vulnerabilities popping up?
+
+190
+00:06:24.400 --> 00:06:26.400
+Like if
+
+191
+00:06:26.400 --> 00:06:28.400
+there are like a common
+
+192
+00:06:28.400 --> 00:06:30.400
+yeah.
+
+193
+00:06:30.400 --> 00:06:32.400
+I'm asking because
+
+194
+00:06:32.400 --> 00:06:34.400
+for example in Argentina,
+
+195
+00:06:34.400 --> 00:06:36.400
+a very common method of car
+
+196
+00:06:36.400 --> 00:06:38.400
+testing is using
+
+197
+00:06:38.400 --> 00:06:40.400
+inhibitors to like block
+
+198
+00:06:40.400 --> 00:06:42.400
+the signal coming from the FOB
+
+199
+00:06:42.400 --> 00:06:44.400
+on the car keys and
+
+200
+00:06:44.400 --> 00:06:46.400
+using that to bypass the security and then
+
+201
+00:06:46.400 --> 00:06:48.400
+yeah, basically seal the cars.
+
+202
+00:06:48.400 --> 00:06:50.400
+So yeah.
+
+203
+00:06:50.400 --> 00:06:52.400
+Yeah. So that's like a very
+
+204
+00:06:52.400 --> 00:06:54.400
+common key fob attack. It's called
+
+205
+00:06:54.400 --> 00:06:56.400
+like a rolling jam attack. You can jam
+
+206
+00:06:56.400 --> 00:06:58.400
+the frequency, capture the signal and then replay
+
+207
+00:06:58.400 --> 00:07:00.400
+it later and it will still work on the device
+
+208
+00:07:00.400 --> 00:07:02.400
+if it's not using like a you know, or like
+
+209
+00:07:02.400 --> 00:07:04.400
+abusing some vehicles maybe still don't have rolling
+
+210
+00:07:04.400 --> 00:07:06.400
+codes for their key fobs. You can
+
+211
+00:07:06.400 --> 00:07:08.400
+replay the same signal over and over again
+
+212
+00:07:08.400 --> 00:07:10.400
+and lock the car.
+
+213
+00:07:10.400 --> 00:07:12.400
+I would say that like a lot
+
+214
+00:07:12.400 --> 00:07:14.400
+of the so
+
+215
+00:07:14.400 --> 00:07:16.400
+when it comes to like the threat analysis and
+
+216
+00:07:16.400 --> 00:07:18.400
+risk assessment, I'm going to really briefly kind of go
+
+217
+00:07:18.400 --> 00:07:20.400
+through like the process of this, right?
+
+218
+00:07:20.400 --> 00:07:22.400
+So if
+
+219
+00:07:22.400 --> 00:07:24.400
+you break down TARA into the two dimensions of
+
+220
+00:07:24.400 --> 00:07:26.400
+attack feasibility and then the impact.
+
+221
+00:07:26.400 --> 00:07:28.400
+Impact is typically quantified
+
+222
+00:07:28.400 --> 00:07:30.400
+in terms of
+
+223
+00:07:30.400 --> 00:07:32.400
+safety,
+
+224
+00:07:32.400 --> 00:07:34.400
+financial, operational
+
+225
+00:07:34.400 --> 00:07:36.400
+and privacy. And every organization that does
+
+226
+00:07:36.400 --> 00:07:38.400
+this is going to have this
+
+227
+00:07:38.400 --> 00:07:40.400
+big ass document that explains
+
+228
+00:07:40.400 --> 00:07:42.400
+exactly what, okay,
+
+229
+00:07:42.400 --> 00:07:44.400
+if a damage
+
+230
+00:07:44.400 --> 00:07:46.400
+scenario occurs and it has
+
+231
+00:07:46.400 --> 00:07:48.400
+life threatening
+
+232
+00:07:48.400 --> 00:07:50.400
+injury or loss of control leading to serious
+
+233
+00:07:50.400 --> 00:07:52.400
+harm, that's a severe
+
+234
+00:07:52.400 --> 00:07:54.400
+impact or severe safety impact.
+
+235
+00:07:54.400 --> 00:07:56.400
+If there's major financial loss,
+
+236
+00:07:56.400 --> 00:07:58.400
+company goes bankrupt, like huge
+
+237
+00:07:58.400 --> 00:08:00.400
+amount of like, I don't know,
+
+238
+00:08:00.400 --> 00:08:02.400
+AI tokens being used or something,
+
+239
+00:08:02.400 --> 00:08:04.400
+you know, a severe financial impact. And you have
+
+240
+00:08:04.400 --> 00:08:06.400
+to define, this is like the real legwork for
+
+241
+00:08:06.400 --> 00:08:08.400
+a cybersecurity management system, is defining
+
+242
+00:08:08.400 --> 00:08:10.400
+these like levels of
+
+243
+00:08:10.400 --> 00:08:12.400
+the impact
+
+244
+00:08:12.400 --> 00:08:14.400
+for each category, right? And then when
+
+245
+00:08:14.400 --> 00:08:16.400
+you actually perform the threat assessment, what
+
+246
+00:08:16.400 --> 00:08:18.400
+you're doing is you're kind of, I'm going to kind of
+
+247
+00:08:18.400 --> 00:08:20.400
+really quickly walk through this here. You kind of like start with
+
+248
+00:08:20.400 --> 00:08:22.400
+a threat scenario and you build an attack
+
+249
+00:08:22.400 --> 00:08:24.400
+tree and you identify like different damage
+
+250
+00:08:24.400 --> 00:08:26.400
+scenarios that are possible. And then
+
+251
+00:08:26.400 --> 00:08:28.400
+each one of these has their own impact
+
+252
+00:08:28.400 --> 00:08:30.400
+kind of values associated
+
+253
+00:08:30.400 --> 00:08:32.400
+with them. And then from there you can actually
+
+254
+00:08:32.400 --> 00:08:34.400
+make a decision on what the risk
+
+255
+00:08:34.400 --> 00:08:36.400
+is, right? And so
+
+256
+00:08:36.400 --> 00:08:38.400
+sorry for all the memes,
+
+257
+00:08:38.400 --> 00:08:40.400
+but like
+
+258
+00:08:40.400 --> 00:08:42.400
+especially in automotive,
+
+259
+00:08:42.400 --> 00:08:44.400
+typically you'll have two separate, two
+
+260
+00:08:44.400 --> 00:08:46.400
+or more separate impact
+
+261
+00:08:46.400 --> 00:08:48.400
+kind of like risk rating
+
+262
+00:08:48.400 --> 00:08:50.400
+systems. One specifically
+
+263
+00:08:50.400 --> 00:08:52.400
+for safety risks and one
+
+264
+00:08:52.400 --> 00:08:54.400
+for everything else, right?
+
+265
+00:08:54.400 --> 00:08:56.400
+Because the safety risk is much more like
+
+266
+00:08:56.400 --> 00:08:58.400
+severe, right? And potentially like
+
+267
+00:08:58.400 --> 00:09:00.400
+life-harming. So you'll have like higher
+
+268
+00:09:00.400 --> 00:09:02.400
+risk values for
+
+269
+00:09:02.400 --> 00:09:04.400
+anything, even if it has a lower feasibility, if the
+
+270
+00:09:04.400 --> 00:09:06.400
+impact is higher, right? You get more
+
+271
+00:09:06.400 --> 00:09:08.400
+red here where this risk value
+
+272
+00:09:08.400 --> 00:09:10.400
+means do something. And what that actually
+
+273
+00:09:10.400 --> 00:09:12.400
+means is you need an actual
+
+274
+00:09:12.400 --> 00:09:14.400
+like risk response playbook
+
+275
+00:09:14.400 --> 00:09:16.400
+that, okay, if we do the assessment
+
+276
+00:09:16.400 --> 00:09:18.400
+and we find that this risk is
+
+277
+00:09:18.400 --> 00:09:20.400
+high or lands between a certain
+
+278
+00:09:20.400 --> 00:09:22.400
+like numerical value, you can actually set up
+
+279
+00:09:22.400 --> 00:09:24.400
+like equations and everything for this shit.
+
+280
+00:09:24.400 --> 00:09:26.400
+Then you say, okay, we have
+
+281
+00:09:26.400 --> 00:09:28.400
+the option to accept the risk, to
+
+282
+00:09:28.400 --> 00:09:30.400
+remediate the risk,
+
+283
+00:09:30.400 --> 00:09:32.400
+to transfer the risk or, you know,
+
+284
+00:09:32.400 --> 00:09:34.400
+remove the risk, right? Like remove like a feature.
+
+285
+00:09:34.400 --> 00:09:36.400
+And you need to have all of this set up
+
+286
+00:09:36.400 --> 00:09:38.400
+ahead of time. And the person
+
+287
+00:09:38.400 --> 00:09:40.400
+who is typically in the engineer's position,
+
+288
+00:09:40.400 --> 00:09:42.400
+like myself, I've been in
+
+289
+00:09:42.400 --> 00:09:44.400
+this position before, I have friends who have been in this position before,
+
+290
+00:09:44.400 --> 00:09:46.400
+they're doing the assessment,
+
+291
+00:09:46.400 --> 00:09:48.400
+you identify risks based on
+
+292
+00:09:48.400 --> 00:09:50.400
+the information you have, you know,
+
+293
+00:09:50.400 --> 00:09:52.400
+you assign a risk value, and then you
+
+294
+00:09:52.400 --> 00:09:54.400
+say, okay, the response for
+
+295
+00:09:54.400 --> 00:09:56.400
+this is we need to improve the encryption.
+
+296
+00:09:56.400 --> 00:09:58.400
+Maybe we're using outdated ciphers for this.
+
+297
+00:09:58.400 --> 00:10:00.400
+Maybe the key size is not long enough.
+
+298
+00:10:00.400 --> 00:10:02.400
+Then you add like requirements
+
+299
+00:10:02.400 --> 00:10:04.400
+or conditions where you say, okay, if we're using this
+
+300
+00:10:04.400 --> 00:10:06.400
+kind of technology, we need to use
+
+301
+00:10:06.400 --> 00:10:08.400
+AES 256
+
+302
+00:10:08.400 --> 00:10:10.400
+for this kind of encryption, et cetera.
+
+303
+00:10:10.400 --> 00:10:12.400
+And those kind of inform your decision
+
+304
+00:10:12.400 --> 00:10:14.400
+will reduce the amount of risk that you're facing,
+
+305
+00:10:14.400 --> 00:10:16.400
+for example. But that's
+
+306
+00:10:16.400 --> 00:10:18.400
+all part of the cybersecurity management system.
+
+307
+00:10:18.400 --> 00:10:20.400
+That's the organization's ability
+
+308
+00:10:20.400 --> 00:10:22.400
+to be prepared to deal with
+
+309
+00:10:22.400 --> 00:10:24.400
+cybersecurity manners
+
+310
+00:10:24.400 --> 00:10:26.400
+throughout the entire vehicle-length lifecycle.
+
+311
+00:10:26.400 --> 00:10:29.800
+How much of that work
+
+312
+00:10:29.800 --> 00:10:31.800
+is typically done by
+
+313
+00:10:31.800 --> 00:10:33.800
+internal engineers
+
+314
+00:10:33.800 --> 00:10:35.800
+versus like someone like us,
+
+315
+00:10:35.800 --> 00:10:37.800
+like if we were to, you know, have someone as a client
+
+316
+00:10:37.800 --> 00:10:39.800
+and were to offer to perform risk
+
+317
+00:10:39.800 --> 00:10:40.000
+assessments or threat analysis or do penetration

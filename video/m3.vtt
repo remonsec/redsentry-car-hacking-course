@@ -1,0 +1,225 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.900
+But we're not going to worry too much about the in-depth hacking parts of this today.
+
+2
+00:00:03.900 --> 00:00:10.900
+But what I will jump into is this relationship between car hackers
+
+3
+00:00:10.900 --> 00:00:13.900
+and the automotive cybersecurity industry.
+
+4
+00:00:13.900 --> 00:00:16.900
+So where this all started with people experimenting with cars
+
+5
+00:00:16.900 --> 00:00:19.900
+and finding ways to hack them and modify them,
+
+6
+00:00:19.900 --> 00:00:24.900
+eventually an industry grew around this, which is more on the opposite side of the coin.
+
+7
+00:00:24.900 --> 00:00:27.900
+This is the actual automotive industry trying to implement measures
+
+8
+00:00:27.900 --> 00:00:30.900
+that will prevent people from modifying the software in their vehicles
+
+9
+00:00:30.900 --> 00:00:34.900
+or modifying the behavior in their vehicles for security purposes.
+
+10
+00:00:34.900 --> 00:00:37.900
+So the OEM's objective is to make a secure vehicle.
+
+11
+00:00:37.900 --> 00:00:42.900
+This means that they're going to invest time into designing secure systems for their vehicles.
+
+12
+00:00:42.900 --> 00:00:46.900
+Things like the software networking architecture that they're using,
+
+13
+00:00:46.900 --> 00:00:51.900
+the actual selection of different software versions that they use for different applications inside the vehicle,
+
+14
+00:00:51.900 --> 00:00:53.900
+following standards and best practices,
+
+15
+00:00:53.900 --> 00:00:56.900
+designing their in-vehicle networks so that they're secure
+
+16
+00:00:56.900 --> 00:01:04.900
+and properly isolated between critical and non-safety critical networks and applications,
+
+17
+00:01:04.900 --> 00:01:09.900
+doing penetration testing, and then producing in a secure way with secure PKI, etc.
+
+18
+00:01:09.900 --> 00:01:11.900
+And your end result is a secure car,
+
+19
+00:01:11.900 --> 00:01:17.900
+whereas the hackers, they're interested in damaging the vehicle or stealing things
+
+20
+00:01:17.900 --> 00:01:19.900
+sometimes if they have criminal intent.
+
+21
+00:01:19.900 --> 00:01:22.900
+But a lot of people are just interested in looking at the actual electronics
+
+22
+00:01:22.900 --> 00:01:24.900
+and being able to modify them at their will.
+
+23
+00:01:24.900 --> 00:01:29.900
+Kind of a consumer rights angle to this too, like right to repair is a big part of this.
+
+24
+00:01:29.900 --> 00:01:34.900
+But these two kind of industries or communities or worlds operate
+
+25
+00:01:34.900 --> 00:01:37.900
+kind of like two sides of the same coin,
+
+26
+00:01:37.900 --> 00:01:41.900
+where the automotive security industry is motivated to pay hackers
+
+27
+00:01:41.900 --> 00:01:45.900
+who have experienced hacking vehicle systems and these embedded systems
+
+28
+00:01:45.900 --> 00:01:49.900
+to help them to make better, more secure vehicles.
+
+29
+00:01:49.900 --> 00:01:53.900
+But there are a lot of challenges that are very unique to the automotive industry.
+
+30
+00:01:53.900 --> 00:01:56.900
+If you think about how many car companies do you know?
+
+31
+00:01:56.900 --> 00:02:04.900
+Maybe you know all the big OEMs, Toyota, Honda, Nissan, Ford, GM, Subaru, Mazda, Mitsubishi.
+
+32
+00:02:04.900 --> 00:02:07.900
+I'm kind of running out of ideas or even like, okay, Tesla, Lucid,
+
+33
+00:02:07.900 --> 00:02:11.900
+maybe like 50, 60 car brands that you can think of
+
+34
+00:02:11.900 --> 00:02:13.900
+or anything like the European ones or even more.
+
+35
+00:02:13.900 --> 00:02:16.900
+But when you think about it, there's for every brand that you know,
+
+36
+00:02:16.900 --> 00:02:23.900
+there's maybe 10 to 20 suppliers in a huge supply chain that kind of makes up a pyramid.
+
+37
+00:02:23.900 --> 00:02:26.900
+That's kind of why I've represented it like this.
+
+38
+00:02:26.900 --> 00:02:29.900
+That supplies the different components to the vehicles
+
+39
+00:02:29.900 --> 00:02:32.900
+and components for those components that the OEM,
+
+40
+00:02:32.900 --> 00:02:36.900
+the manufacturer then puts together into what's called a car and then sells it.
+
+41
+00:02:36.900 --> 00:02:45.900
+So your average person would only really know the brand of the car, right?
+
+42
+00:02:45.900 --> 00:02:47.900
+That's the OEM. That's the original equipment manufacturer.
+
+43
+00:02:47.900 --> 00:02:50.900
+They're the ones who put their logo and the stamp on the vehicle,
+
+44
+00:02:50.900 --> 00:02:52.900
+and that's the brand of the vehicle.
+
+45
+00:02:52.900 --> 00:02:55.900
+But behind every Toyota, you have a company called Denso,
+
+46
+00:02:55.900 --> 00:02:59.900
+a huge automotive supplier from Japan who makes maybe 60, 70 percent
+
+47
+00:02:59.900 --> 00:03:01.900
+of all components in Toyota vehicles.
+
+48
+00:03:01.900 --> 00:03:04.900
+And then Denso gets all their components from other companies,
+
+49
+00:03:04.900 --> 00:03:08.900
+like Renesas, like Infineon, et cetera, so on and so forth,
+
+50
+00:03:08.900 --> 00:03:10.900
+who supply software and hardware to them.
+
+51
+00:03:10.900 --> 00:03:13.900
+And they all end up going up here to the top,
+
+52
+00:03:13.900 --> 00:03:20.900
+where you have the OEM who actually has the final responsibility for that vehicle
+
+53
+00:03:20.900 --> 00:03:22.900
+and the final responsibility for its cybersecurity,
+
+54
+00:03:22.900 --> 00:03:26.900
+according to most legislation around this in the world.
+
+55
+00:03:26.900 --> 00:03:28.900
+OK, I need to hurry up a bit.
+
+56
+00:03:28.900 --> 00:03:30.000
+But yeah, vehicles are very long.

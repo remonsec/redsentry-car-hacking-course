@@ -1,0 +1,2129 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.800
+assessments or threat analysis or do penetration
+
+2
+00:00:01.800 --> 00:00:03.800
+testing, like,
+
+3
+00:00:03.800 --> 00:00:05.800
+would they be
+
+4
+00:00:05.800 --> 00:00:07.800
+asking us, and of course we'd be happy to do it,
+
+5
+00:00:07.800 --> 00:00:09.800
+would they be asking us to
+
+6
+00:00:09.800 --> 00:00:11.800
+identify the risk, assign the value, and
+
+7
+00:00:11.800 --> 00:00:13.800
+give a suggested response?
+
+8
+00:00:13.800 --> 00:00:15.800
+Or at what point does it
+
+9
+00:00:15.800 --> 00:00:17.800
+hand off and where's the crossover?
+
+10
+00:00:17.800 --> 00:00:19.800
+Good question. So I would say
+
+11
+00:00:19.800 --> 00:00:21.800
+on like the red teaming side of stuff,
+
+12
+00:00:21.800 --> 00:00:23.800
+most companies,
+
+13
+00:00:23.800 --> 00:00:25.800
+like automotive companies,
+
+14
+00:00:25.800 --> 00:00:27.800
+probably don't have like dedicated
+
+15
+00:00:27.800 --> 00:00:29.800
+red teams. They might have like one.
+
+16
+00:00:29.800 --> 00:00:31.800
+Some of them will, right, but it's not very common.
+
+17
+00:00:31.800 --> 00:00:33.800
+And the reason why, like, each of these
+
+18
+00:00:33.800 --> 00:00:35.800
+companies has,
+
+19
+00:00:35.800 --> 00:00:37.800
+if you consider like the old school, like
+
+20
+00:00:37.800 --> 00:00:39.800
+traditional automotive industry,
+
+21
+00:00:39.800 --> 00:00:41.800
+they have hundreds of departments.
+
+22
+00:00:41.800 --> 00:00:43.800
+Each of them has to do their own cybersecurity
+
+23
+00:00:43.800 --> 00:00:45.800
+activities themselves. They each have their own budgets.
+
+24
+00:00:45.800 --> 00:00:47.800
+And so even if you had like
+
+25
+00:00:47.800 --> 00:00:49.800
+one red team for the whole company,
+
+26
+00:00:49.800 --> 00:00:51.800
+there's too many departments they have to service.
+
+27
+00:00:51.800 --> 00:00:53.800
+Right?
+
+28
+00:00:53.800 --> 00:00:55.800
+And it doesn't make sense for every department to have their own red team.
+
+29
+00:00:55.800 --> 00:00:57.800
+Kind of excessive, right?
+
+30
+00:00:57.800 --> 00:00:59.800
+So a lot of these do get outsourced
+
+31
+00:00:59.800 --> 00:01:01.800
+to consultants or third parties.
+
+32
+00:01:01.800 --> 00:01:03.800
+So I've done the third party risk
+
+33
+00:01:03.800 --> 00:01:05.800
+assessments before, as a third party consultant.
+
+34
+00:01:05.800 --> 00:01:07.800
+I've done third party penetration
+
+35
+00:01:07.800 --> 00:01:09.800
+testing. So before I joined Accenture
+
+36
+00:01:09.800 --> 00:01:11.800
+as a manager, I was a manager
+
+37
+00:01:11.800 --> 00:01:13.800
+for about two and a half years.
+
+38
+00:01:13.800 --> 00:01:15.800
+And before that, I spent three years
+
+39
+00:01:15.800 --> 00:01:17.800
+working for a subsidiary, like a tier
+
+40
+00:01:17.800 --> 00:01:19.800
+one supplier.
+
+41
+00:01:19.800 --> 00:01:21.800
+A subsidiary of a tier one supplier, where we
+
+42
+00:01:21.800 --> 00:01:23.800
+were doing cybersecurity testing, like technical
+
+43
+00:01:23.800 --> 00:01:25.800
+penetration testing, for our parent
+
+44
+00:01:25.800 --> 00:01:27.800
+company's products, but also for some external
+
+45
+00:01:27.800 --> 00:01:29.800
+client.
+
+46
+00:01:29.800 --> 00:01:31.800
+So it's very common that those get
+
+47
+00:01:31.800 --> 00:01:33.800
+outsourced to
+
+48
+00:01:33.800 --> 00:01:35.800
+other players. And just
+
+49
+00:01:35.800 --> 00:01:37.800
+getting into the bidding process
+
+50
+00:01:37.800 --> 00:01:39.800
+and being part of RFPs
+
+51
+00:01:39.800 --> 00:01:41.800
+for this kind of security work
+
+52
+00:01:41.800 --> 00:01:43.800
+is kind of a bit of
+
+53
+00:01:43.800 --> 00:01:45.800
+a challenge to get your foot in the door and make sure that
+
+54
+00:01:45.800 --> 00:01:47.800
+the actual purchasing
+
+55
+00:01:47.800 --> 00:01:49.800
+manager knows you exist and wants
+
+56
+00:01:49.800 --> 00:01:51.800
+to
+
+57
+00:01:51.800 --> 00:01:53.800
+contract you because
+
+58
+00:01:53.800 --> 00:01:55.800
+you have to compete with, there are other
+
+59
+00:01:55.800 --> 00:01:57.800
+established players
+
+60
+00:01:57.800 --> 00:01:59.800
+in this cybersecurity testing
+
+61
+00:01:59.800 --> 00:02:01.800
+field, especially when it comes to technical testing
+
+62
+00:02:01.800 --> 00:02:03.800
+and risk assessment. All the big consulting companies,
+
+63
+00:02:03.800 --> 00:02:05.800
+they love risk assessment, because
+
+64
+00:02:05.800 --> 00:02:07.800
+it's paperwork that they can bill as
+
+65
+00:02:07.800 --> 00:02:09.800
+engineering work.
+
+66
+00:02:09.800 --> 00:02:11.800
+So,
+
+67
+00:02:11.800 --> 00:02:13.800
+yeah. How much would you say,
+
+68
+00:02:13.800 --> 00:02:15.800
+and it's okay to just give a
+
+69
+00:02:15.800 --> 00:02:17.800
+really general figure here, but
+
+70
+00:02:17.800 --> 00:02:19.800
+how much are, so first, I'm going
+
+71
+00:02:19.800 --> 00:02:21.800
+to back up. You said most companies don't have a dedicated
+
+72
+00:02:21.800 --> 00:02:23.800
+red team. When you say most companies, you're talking about the OEMs,
+
+73
+00:02:23.800 --> 00:02:25.800
+right? You're talking about like Toyota,
+
+74
+00:02:25.800 --> 00:02:27.800
+Nissan, Mitsubishi, right?
+
+75
+00:02:27.800 --> 00:02:29.800
+And then you can get as granular as
+
+76
+00:02:29.800 --> 00:02:31.800
+you like with who's actually paying.
+
+77
+00:02:31.800 --> 00:02:33.800
+But when they pay for a third
+
+78
+00:02:33.800 --> 00:02:35.800
+party, what is the price
+
+79
+00:02:35.800 --> 00:02:37.800
+range? Are they paying $20,000,
+
+80
+00:02:37.800 --> 00:02:39.800
+$70,000,
+
+81
+00:02:39.800 --> 00:02:41.800
+$200,000 a year?
+
+82
+00:02:41.800 --> 00:02:43.800
+What's the range of cost
+
+83
+00:02:43.800 --> 00:02:45.800
+for that? That's a good question. So for
+
+84
+00:02:45.800 --> 00:02:47.800
+the risk assessment, it's kind of
+
+85
+00:02:47.800 --> 00:02:49.800
+hard to say. I'd say you can
+
+86
+00:02:49.800 --> 00:02:51.800
+maybe go like...
+
+87
+00:02:51.800 --> 00:02:53.800
+It depends a lot on
+
+88
+00:02:53.800 --> 00:02:55.800
+the scale of the system
+
+89
+00:02:55.800 --> 00:02:57.800
+that is in scope, right? Because the scope
+
+90
+00:02:57.800 --> 00:02:59.800
+could change from one particular
+
+91
+00:02:59.800 --> 00:03:01.800
+ECU. It could also be a risk
+
+92
+00:03:01.800 --> 00:03:03.800
+assessment for an entire application
+
+93
+00:03:03.800 --> 00:03:05.800
+of
+
+94
+00:03:05.800 --> 00:03:07.800
+the vehicle system, right?
+
+95
+00:03:07.800 --> 00:03:09.800
+Because I've done a risk assessment, say for example,
+
+96
+00:03:09.800 --> 00:03:11.800
+where I'm assessing
+
+97
+00:03:11.800 --> 00:03:13.800
+the whole feature,
+
+98
+00:03:13.800 --> 00:03:15.800
+set of features that is my ability
+
+99
+00:03:15.800 --> 00:03:17.800
+to unlock the car
+
+100
+00:03:17.800 --> 00:03:19.800
+from my phone. What's involved in
+
+101
+00:03:19.800 --> 00:03:21.800
+this? I've got my cell phone, the mobile app,
+
+102
+00:03:21.800 --> 00:03:23.800
+I've got the infrastructure that connects
+
+103
+00:03:23.800 --> 00:03:25.800
+my mobile app to the car, and the actual car
+
+104
+00:03:25.800 --> 00:03:27.800
+itself. All of this is somewhat in scope,
+
+105
+00:03:27.800 --> 00:03:29.800
+and I have to look at it from
+
+106
+00:03:29.800 --> 00:03:31.800
+many different angles. So depending on the scope,
+
+107
+00:03:31.800 --> 00:03:33.800
+this gets very big or very small.
+
+108
+00:03:33.800 --> 00:03:35.800
+You can look at maybe $20,000
+
+109
+00:03:35.800 --> 00:03:37.800
+to maybe
+
+110
+00:03:37.800 --> 00:03:39.800
+$60,000. Probably not
+
+111
+00:03:39.800 --> 00:03:41.800
+just for one risk assessment, right? Risk assessment
+
+112
+00:03:41.800 --> 00:03:43.800
+plus penetration test maybe.
+
+113
+00:03:43.800 --> 00:03:45.800
+Kind of here and there. Yeah, okay.
+
+114
+00:03:45.800 --> 00:03:47.800
+That really helps because it's just good
+
+115
+00:03:47.800 --> 00:03:49.800
+to know what we can expect,
+
+116
+00:03:49.800 --> 00:03:51.800
+right?
+
+117
+00:03:51.800 --> 00:03:53.800
+Yeah.
+
+118
+00:03:53.800 --> 00:03:55.800
+I'd say for a single
+
+119
+00:03:55.800 --> 00:03:57.800
+system or an ECU penetration
+
+120
+00:03:57.800 --> 00:03:59.800
+test, depending on how complex it is, how many
+
+121
+00:03:59.800 --> 00:04:01.800
+interfaces, maybe average price
+
+122
+00:04:01.800 --> 00:04:03.800
+maybe $30,000 US,
+
+123
+00:04:03.800 --> 00:04:05.800
+maybe a little bit more than that. For a full vehicle,
+
+124
+00:04:05.800 --> 00:04:07.800
+for example, might take a lot longer.
+
+125
+00:04:07.800 --> 00:04:09.800
+Maybe $200,000
+
+126
+00:04:09.800 --> 00:04:11.800
+for a whole vehicle,
+
+127
+00:04:11.800 --> 00:04:13.800
+depending on how long you plan to
+
+128
+00:04:13.800 --> 00:04:15.800
+deliver it over. So there's a lot
+
+129
+00:04:15.800 --> 00:04:17.800
+of variance to these things, and it kind of
+
+130
+00:04:17.800 --> 00:04:19.800
+depends on the scope of the project itself.
+
+131
+00:04:19.800 --> 00:04:21.800
+You'd have to analyze the scope,
+
+132
+00:04:21.800 --> 00:04:23.800
+make a man hour requirement,
+
+133
+00:04:23.800 --> 00:04:25.800
+figure out how many man hours
+
+134
+00:04:25.800 --> 00:04:27.800
+you need, and scope out
+
+135
+00:04:27.800 --> 00:04:29.800
+the required skills in your team, make a proposal.
+
+136
+00:04:29.800 --> 00:04:31.800
+That's what we did.
+
+137
+00:04:31.800 --> 00:04:33.800
+Of course, yeah.
+
+138
+00:04:33.800 --> 00:04:35.800
+So when you talk about, I know
+
+139
+00:04:35.800 --> 00:04:37.800
+Matias here, it's a little bit longer, I know you guys
+
+140
+00:04:37.800 --> 00:04:39.800
+are going to say. But when you talk about
+
+141
+00:04:39.800 --> 00:04:41.800
+man hours for the pen tests,
+
+142
+00:04:41.800 --> 00:04:43.800
+okay, let's go big. Let's say you want to do
+
+143
+00:04:43.800 --> 00:04:45.800
+the whole vehicle.
+
+144
+00:04:45.800 --> 00:04:47.800
+In terms of man hours, what
+
+145
+00:04:47.800 --> 00:04:49.800
+would you expect to spend?
+
+146
+00:04:49.800 --> 00:04:51.800
+Are you talking like three weeks
+
+147
+00:04:51.800 --> 00:04:53.800
+of time, or like a month of
+
+148
+00:04:53.800 --> 00:04:55.800
+working days, or
+
+149
+00:04:55.800 --> 00:04:57.800
+less?
+
+150
+00:04:57.800 --> 00:04:59.800
+What is the, again, general,
+
+151
+00:04:59.800 --> 00:05:01.800
+very general expectation. What is
+
+152
+00:05:01.800 --> 00:05:03.800
+that like? Good question.
+
+153
+00:05:03.800 --> 00:05:05.800
+So
+
+154
+00:05:05.800 --> 00:05:07.800
+I think if you're doing a whole
+
+155
+00:05:07.800 --> 00:05:09.800
+vehicle, I'd say you can maybe look at
+
+156
+00:05:09.800 --> 00:05:11.800
+like maybe three weeks to a month.
+
+157
+00:05:11.800 --> 00:05:13.800
+It's probably like, because
+
+158
+00:05:13.800 --> 00:05:15.800
+if you're looking at it from like a black box
+
+159
+00:05:15.800 --> 00:05:17.800
+perspective, like they drive the vehicle to
+
+160
+00:05:17.800 --> 00:05:19.800
+your office, they park it there and they leave. They don't
+
+161
+00:05:19.800 --> 00:05:21.800
+give you any internal documentation, they don't give you
+
+162
+00:05:21.800 --> 00:05:23.800
+source code, they don't even give you any like firmware
+
+163
+00:05:23.800 --> 00:05:25.800
+dumps, so like compiled binaries from any of the
+
+164
+00:05:25.800 --> 00:05:27.800
+vehicle.
+
+165
+00:05:27.800 --> 00:05:29.800
+And that depends. If that's what they want,
+
+166
+00:05:29.800 --> 00:05:31.800
+if they want a black box assessment,
+
+167
+00:05:31.800 --> 00:05:33.800
+you can probably like
+
+168
+00:05:33.800 --> 00:05:35.800
+do all your enumeration, and unless you're going to like
+
+169
+00:05:35.800 --> 00:05:37.800
+really destructive testing, like
+
+170
+00:05:37.800 --> 00:05:39.800
+I'm talking, we're ripping off the panels,
+
+171
+00:05:39.800 --> 00:05:41.800
+we're removing the ECUs, we're trying to extract
+
+172
+00:05:41.800 --> 00:05:43.800
+the firmware.
+
+173
+00:05:43.800 --> 00:05:45.800
+There's a lot of variance to this too, right?
+
+174
+00:05:45.800 --> 00:05:47.800
+But if you're really looking like
+
+175
+00:05:47.800 --> 00:05:49.800
+a full-on vehicle security
+
+176
+00:05:49.800 --> 00:05:51.800
+teardown level thing, it's maybe like
+
+177
+00:05:51.800 --> 00:05:53.800
+a two month or more process.
+
+178
+00:05:53.800 --> 00:05:55.800
+If you think back to like the G-Pak
+
+179
+00:05:55.800 --> 00:05:57.800
+that I mentioned before,
+
+180
+00:05:57.800 --> 00:05:59.800
+these gentlemen spent
+
+181
+00:05:59.800 --> 00:06:01.800
+two years doing the research
+
+182
+00:06:01.800 --> 00:06:03.800
+for this to be able to like,
+
+183
+00:06:03.800 --> 00:06:05.800
+bring the thing down.
+
+184
+00:06:05.800 --> 00:06:07.800
+The video is on YouTube, you can look it up later
+
+185
+00:06:07.800 --> 00:06:09.800
+if you want. Oh, I'm going to.
+
+186
+00:06:09.800 --> 00:06:11.800
+It's a great vehicle.
+
+187
+00:06:11.800 --> 00:06:13.800
+And what I definitely say, and maybe like
+
+188
+00:06:13.800 --> 00:06:15.800
+for the technical members of your team, I'm not sure how many
+
+189
+00:06:15.800 --> 00:06:17.800
+of you are actual like testers.
+
+190
+00:06:17.800 --> 00:06:19.800
+Jacob probably has
+
+191
+00:06:19.800 --> 00:06:21.800
+the video loaded up right now,
+
+192
+00:06:21.800 --> 00:06:23.800
+and is resisting the urge to watch it.
+
+193
+00:06:23.800 --> 00:06:25.800
+The video is great, but what I can tell you is that
+
+194
+00:06:25.800 --> 00:06:27.800
+the two researchers
+
+195
+00:06:27.800 --> 00:06:29.800
+made a very detailed write-up
+
+196
+00:06:29.800 --> 00:06:31.800
+of exactly every single thing they did, and it's
+
+197
+00:06:31.800 --> 00:06:35.500
+available for free online.
+
+198
+00:06:35.500 --> 00:06:37.500
+This is something a lot of, and a lot of the companies
+
+199
+00:06:37.500 --> 00:06:39.500
+operate in this space, they're kind of like, I call them
+
+200
+00:06:39.500 --> 00:06:41.500
+LARPers, okay? They've never
+
+201
+00:06:41.500 --> 00:06:43.500
+read this paper back, like front to back.
+
+202
+00:06:43.500 --> 00:06:45.500
+And I think that's like,
+
+203
+00:06:45.500 --> 00:06:47.500
+you're throwing away the best
+
+204
+00:06:47.500 --> 00:06:49.500
+source of information.
+
+205
+00:06:49.500 --> 00:06:51.500
+In my training material, I have like a walkthrough
+
+206
+00:06:51.500 --> 00:06:53.500
+of exactly what they did, right?
+
+207
+00:06:53.500 --> 00:06:55.500
+Like step-by-step. I don't want to go into it
+
+208
+00:06:55.500 --> 00:06:57.500
+too much. There's like lots of memes, lots of
+
+209
+00:06:57.500 --> 00:06:59.500
+explanations.
+
+210
+00:06:59.500 --> 00:07:01.500
+But the actual paper
+
+211
+00:07:01.500 --> 00:07:03.500
+itself is free online.
+
+212
+00:07:03.500 --> 00:07:05.500
+Very detailed. They go in
+
+213
+00:07:05.500 --> 00:07:07.500
+painful detail
+
+214
+00:07:07.500 --> 00:07:09.500
+what they found, why they were able to do
+
+215
+00:07:09.500 --> 00:07:11.500
+this, what architectural problems were
+
+216
+00:07:11.500 --> 00:07:13.500
+existing in the vehicle ecosystem, how it connects
+
+217
+00:07:13.500 --> 00:07:15.500
+to the cloud, how there's no
+
+218
+00:07:15.500 --> 00:07:17.500
+network segmentation
+
+219
+00:07:17.500 --> 00:07:19.500
+between the vehicle and the other
+
+220
+00:07:19.500 --> 00:07:21.500
+devices on other networks, right?
+
+221
+00:07:21.500 --> 00:07:23.500
+There's a lot of architectural problems
+
+222
+00:07:23.500 --> 00:07:25.500
+that were here too. It's not just problems in the
+
+223
+00:07:25.500 --> 00:07:27.500
+code, it's problems in the way this whole
+
+224
+00:07:27.500 --> 00:07:29.500
+system was built. And there are so
+
+225
+00:07:29.500 --> 00:07:31.500
+many problems, I can say with confidence, that
+
+226
+00:07:31.500 --> 00:07:33.500
+nothing like this will ever happen again.
+
+227
+00:07:33.500 --> 00:07:35.500
+I do not think this will ever happen again.
+
+228
+00:07:35.500 --> 00:07:37.500
+But it did happen.
+
+229
+00:07:37.500 --> 00:07:39.500
+It was a real thing. And like
+
+230
+00:07:39.500 --> 00:07:41.500
+every lesson you need to learn
+
+231
+00:07:41.500 --> 00:07:43.500
+on automotive cybersecurity,
+
+232
+00:07:43.500 --> 00:07:45.500
+especially when it comes to like the security
+
+233
+00:07:45.500 --> 00:07:47.500
+of the vehicle itself, you can learn
+
+234
+00:07:47.500 --> 00:07:49.500
+it by reading that paper. So I would
+
+235
+00:07:49.500 --> 00:07:51.500
+highly recommend you all
+
+236
+00:07:51.500 --> 00:07:53.500
+go and take a look at that. It's really my
+
+237
+00:07:53.500 --> 00:07:55.500
+recommendation.
+
+238
+00:07:55.500 --> 00:07:57.500
+Any other questions?
+
+239
+00:07:57.500 --> 00:07:59.500
+I have
+
+240
+00:07:59.500 --> 00:08:01.500
+two. So do
+
+241
+00:08:01.500 --> 00:08:03.500
+OEMs, like with their
+
+242
+00:08:03.500 --> 00:08:05.500
+vendors, their suppliers,
+
+243
+00:08:05.500 --> 00:08:07.500
+do they have, I'm guessing they have
+
+244
+00:08:07.500 --> 00:08:09.500
+their security questionnaires, their like onboarding
+
+245
+00:08:09.500 --> 00:08:11.500
+processes, but do they usually
+
+246
+00:08:11.500 --> 00:08:13.500
+require some sort of friend testing,
+
+247
+00:08:13.500 --> 00:08:15.500
+any type of security assessments
+
+248
+00:08:15.500 --> 00:08:17.500
+to their own?
+
+249
+00:08:17.500 --> 00:08:19.500
+Yeah.
+
+250
+00:08:19.500 --> 00:08:21.500
+As part of that questionnaire.
+
+251
+00:08:21.500 --> 00:08:23.500
+Do you see that?
+
+252
+00:08:23.500 --> 00:08:25.500
+Absolutely. Yeah. And so as like
+
+253
+00:08:25.500 --> 00:08:27.500
+a consultant, like in my experience,
+
+254
+00:08:27.500 --> 00:08:29.500
+I'm not always working directly
+
+255
+00:08:29.500 --> 00:08:31.500
+for the OEM. Sometimes I'm
+
+256
+00:08:31.500 --> 00:08:33.500
+working for a supplier because they said, hey,
+
+257
+00:08:33.500 --> 00:08:35.500
+we have a project
+
+258
+00:08:35.500 --> 00:08:37.500
+that we, you know, we bid
+
+259
+00:08:37.500 --> 00:08:39.500
+on and we want a project to deliver
+
+260
+00:08:39.500 --> 00:08:41.500
+this component for Toyota.
+
+261
+00:08:41.500 --> 00:08:43.500
+Part of their
+
+262
+00:08:43.500 --> 00:08:45.500
+requirements is that we do a security test.
+
+263
+00:08:45.500 --> 00:08:47.500
+We would like you to do this
+
+264
+00:08:47.500 --> 00:08:49.500
+security test for us. Deliver a
+
+265
+00:08:49.500 --> 00:08:51.500
+pen test, deliver us the report. Or
+
+266
+00:08:51.500 --> 00:08:53.500
+if it's like a source code analysis,
+
+267
+00:08:53.500 --> 00:08:55.500
+do SAST or DAST
+
+268
+00:08:55.500 --> 00:08:57.500
+or whatever vulnerability analysis or
+
+269
+00:08:57.500 --> 00:08:59.500
+breakdown you have to do. And then we'll
+
+270
+00:08:59.500 --> 00:09:01.500
+submit that as part of our deliverable
+
+271
+00:09:01.500 --> 00:09:03.500
+to our client. And so
+
+272
+00:09:03.500 --> 00:09:05.500
+when you're thinking about doing
+
+273
+00:09:05.500 --> 00:09:07.500
+services to the industry, depending
+
+274
+00:09:07.500 --> 00:09:09.500
+on like what kind of service you want to do,
+
+275
+00:09:09.500 --> 00:09:11.500
+you're looking at different parts of the select supply
+
+276
+00:09:11.500 --> 00:09:13.500
+chain. Right.
+
+277
+00:09:13.500 --> 00:09:15.500
+And so
+
+278
+00:09:15.500 --> 00:09:17.500
+I have
+
+279
+00:09:17.500 --> 00:09:19.500
+another question on that, but I want to ask something different.
+
+280
+00:09:19.500 --> 00:09:21.500
+So these
+
+281
+00:09:21.500 --> 00:09:23.500
+OEMs like Toyota, Stellantis,
+
+282
+00:09:23.500 --> 00:09:25.500
+GM, they are all over the place.
+
+283
+00:09:25.500 --> 00:09:27.500
+They have factories
+
+284
+00:09:27.500 --> 00:09:29.500
+all over the place. How,
+
+285
+00:09:29.500 --> 00:09:31.500
+have you ever worked with
+
+286
+00:09:31.500 --> 00:09:33.500
+any of those companies in more than
+
+287
+00:09:33.500 --> 00:09:35.500
+one location? I'm interested in knowing
+
+288
+00:09:35.500 --> 00:09:37.500
+like how good is their knowledge
+
+289
+00:09:37.500 --> 00:09:39.500
+sharing between different countries?
+
+290
+00:09:39.500 --> 00:09:41.500
+Because I,
+
+291
+00:09:41.500 --> 00:09:43.500
+there must be a disconnect
+
+292
+00:09:43.500 --> 00:09:45.500
+somewhere. Yeah. Oh, man.
+
+293
+00:09:47.500 --> 00:09:49.500
+Dude, if you look at like
+
+294
+00:09:49.500 --> 00:09:51.500
+companies like Stellantis, like
+
+295
+00:09:51.500 --> 00:09:53.500
+Stellantis, it sucks.
+
+296
+00:09:53.500 --> 00:09:55.500
+Yeah.
+
+297
+00:09:55.500 --> 00:09:57.500
+Like Stellantis is like a merger of like
+
+298
+00:09:57.500 --> 00:09:59.500
+two different mergers, right? There's like a
+
+299
+00:09:59.500 --> 00:10:01.500
+billion different companies.
+
+300
+00:10:01.500 --> 00:10:03.500
+And like the right hand doesn't know what the left hand
+
+301
+00:10:03.500 --> 00:10:05.500
+is doing. The European side of
+
+302
+00:10:05.500 --> 00:10:07.500
+Stellantis, brilliant people.
+
+303
+00:10:07.500 --> 00:10:09.500
+Incredibly smart people. Like the engineers, they're
+
+304
+00:10:09.500 --> 00:10:11.500
+so smart, such talented
+
+305
+00:10:11.500 --> 00:10:13.500
+security people, in my experience, yeah.
+
+306
+00:10:13.500 --> 00:10:15.500
+And the people that I've met like in person,
+
+307
+00:10:15.500 --> 00:10:17.500
+right? And you go to like the American
+
+308
+00:10:17.500 --> 00:10:19.500
+side. These people are, what are you
+
+309
+00:10:19.500 --> 00:10:21.500
+doing?
+
+310
+00:10:21.500 --> 00:10:23.500
+In my personal experience,
+
+311
+00:10:23.500 --> 00:10:25.500
+and maybe my information is
+
+312
+00:10:25.500 --> 00:10:27.500
+outdated. I haven't done any projects
+
+313
+00:10:27.500 --> 00:10:29.500
+with either of them in a while, but
+
+314
+00:10:29.500 --> 00:10:31.500
+like there is like serious disconnect
+
+315
+00:10:31.500 --> 00:10:33.500
+sometimes, even within country
+
+316
+00:10:33.500 --> 00:10:35.500
+or like with companies that like maybe are
+
+317
+00:10:35.500 --> 00:10:37.500
+kind of, most of the management is in one country,
+
+318
+00:10:37.500 --> 00:10:39.500
+like even like in Japan.
+
+319
+00:10:39.500 --> 00:10:41.500
+For example, you think of like the big automotive companies
+
+320
+00:10:41.500 --> 00:10:43.500
+here, like Toyota, Nissan, Honda,
+
+321
+00:10:43.500 --> 00:10:45.500
+Suzuki, right?
+
+322
+00:10:45.500 --> 00:10:47.500
+Mitsubishi. They have different
+
+323
+00:10:47.500 --> 00:10:49.500
+teams, right? And the different teams
+
+324
+00:10:49.500 --> 00:10:51.500
+developing different applications, sometimes
+
+325
+00:10:51.500 --> 00:10:53.500
+they don't always share information between
+
+326
+00:10:53.500 --> 00:10:55.500
+one another. Because you'll have like
+
+327
+00:10:55.500 --> 00:10:57.500
+this team is dedicated to onboard
+
+328
+00:10:57.500 --> 00:10:59.500
+cybersecurity. That's the
+
+329
+00:10:59.500 --> 00:11:01.500
+everything that's inside the actual vehicle, right?
+
+330
+00:11:01.500 --> 00:11:03.500
+The ECUs, the wireless
+
+331
+00:11:03.500 --> 00:11:05.500
+networks, the Wi-Fi, et cetera. You have
+
+332
+00:11:05.500 --> 00:11:07.500
+a completely separate team who handles
+
+333
+00:11:07.500 --> 00:11:09.500
+all of the cloud functionality.
+
+334
+00:11:09.500 --> 00:11:11.500
+All of the mobile application stuff, all the
+
+335
+00:11:11.500 --> 00:11:13.500
+APIs, all the network backend stuff.
+
+336
+00:11:13.500 --> 00:11:15.500
+Completely different team. Not always
+
+337
+00:11:15.500 --> 00:11:17.500
+the same. And it's
+
+338
+00:11:17.500 --> 00:11:19.500
+what do you do? It's a big
+
+339
+00:11:19.500 --> 00:11:21.500
+corporation and like there's
+
+340
+00:11:21.500 --> 00:11:23.500
+so, and that's really
+
+341
+00:11:23.500 --> 00:11:25.500
+something you should consider is that
+
+342
+00:11:25.500 --> 00:11:27.500
+each one of those teams is a separate client.
+
+343
+00:11:27.500 --> 00:11:29.500
+They're
+
+344
+00:11:29.500 --> 00:11:31.500
+all, you know, looking for, and they have
+
+345
+00:11:31.500 --> 00:11:33.500
+different timelines, they have different
+
+346
+00:11:33.500 --> 00:11:35.500
+projects, different types of work that they need done.
+
+347
+00:11:35.500 --> 00:11:37.500
+And like
+
+348
+00:11:37.500 --> 00:11:39.500
+helps to understand what kind of activities they have.
+
+349
+00:11:39.500 --> 00:11:41.500
+That's what I was thinking. Yeah,
+
+350
+00:11:41.500 --> 00:11:43.500
+yeah. It's a, they're all
+
+351
+00:11:43.500 --> 00:11:45.500
+different entities. And have you ever
+
+352
+00:11:45.500 --> 00:11:47.500
+thought, like as you're selling these
+
+353
+00:11:47.500 --> 00:11:49.500
+services, have you ever thought about like
+
+354
+00:11:49.500 --> 00:11:51.500
+taking the, like the
+
+355
+00:11:51.500 --> 00:11:53.500
+fear, the fears active to
+
+356
+00:11:53.500 --> 00:11:55.500
+selling and the potential reputational
+
+357
+00:11:55.500 --> 00:11:57.500
+like as part of
+
+358
+00:11:57.500 --> 00:11:59.500
+your tariff, the
+
+359
+00:11:59.500 --> 00:12:01.500
+reputational risk of a specific finding
+
+360
+00:12:01.500 --> 00:12:03.500
+like look what it happened to Jeep
+
+361
+00:12:03.500 --> 00:12:05.500
+and their brand
+
+362
+00:12:05.500 --> 00:12:07.500
+is kind of has been on the
+
+363
+00:12:07.500 --> 00:12:09.500
+trash can for a decade now.
+
+364
+00:12:09.500 --> 00:12:11.500
+Yeah. Good question.
+
+365
+00:12:11.500 --> 00:12:13.500
+So that kind of
+
+366
+00:12:13.500 --> 00:12:15.500
+okay, so
+
+367
+00:12:15.500 --> 00:12:17.500
+what I need to like
+
+368
+00:12:17.500 --> 00:12:19.500
+the fear factor isn't really
+
+369
+00:12:19.500 --> 00:12:21.500
+that valuable and like at the
+
+370
+00:12:21.500 --> 00:12:23.500
+sales stage because if you're
+
+371
+00:12:23.500 --> 00:12:25.500
+like doing like a contracted
+
+372
+00:12:25.500 --> 00:12:27.500
+penetration test under NDA,
+
+373
+00:12:27.500 --> 00:12:29.500
+they're not afraid of you going
+
+374
+00:12:29.500 --> 00:12:31.500
+like loud with what you find because
+
+375
+00:12:31.500 --> 00:12:33.500
+you're going to prison if you do that.
+
+376
+00:12:33.500 --> 00:12:35.500
+But like
+
+377
+00:12:35.500 --> 00:12:37.500
+from the perspective of motivating them
+
+378
+00:12:37.500 --> 00:12:39.500
+to spend on cybersecurity,
+
+379
+00:12:39.500 --> 00:12:41.500
+absolutely. And like
+
+380
+00:12:41.500 --> 00:12:43.500
+that's
+
+381
+00:12:43.500 --> 00:12:45.500
+I would say that most like old
+
+382
+00:12:45.500 --> 00:12:47.500
+school automotive companies have already pretty
+
+383
+00:12:47.500 --> 00:12:49.500
+much gotten this message, right?
+
+384
+00:12:49.500 --> 00:12:51.500
+Anything that's already
+
+385
+00:12:51.500 --> 00:12:53.500
+like established, they've had to because like
+
+386
+00:12:53.500 --> 00:12:55.500
+the law is now in place now. It's been around
+
+387
+00:12:55.500 --> 00:12:57.500
+for like three, four years now. These companies have
+
+388
+00:12:57.500 --> 00:12:59.500
+to invest in cybersecurity
+
+389
+00:12:59.500 --> 00:13:01.500
+now, right? Like every
+
+390
+00:13:01.500 --> 00:13:03.500
+major OEM has
+
+391
+00:13:03.500 --> 00:13:05.500
+some degree, right? Cybersecurity
+
+392
+00:13:05.500 --> 00:13:07.500
+as part of their manufacturing process.
+
+393
+00:13:07.500 --> 00:13:09.500
+And they've kind of already accepted that it's a reality
+
+394
+00:13:09.500 --> 00:13:11.500
+that they have to go through with. They have to pay for
+
+395
+00:13:11.500 --> 00:13:13.500
+the cybersecurity and get it done.
+
+396
+00:13:13.500 --> 00:13:15.500
+The fear factor is kind of like back
+
+397
+00:13:15.500 --> 00:13:17.500
+when this was happening is we were trying to convince
+
+398
+00:13:17.500 --> 00:13:19.500
+them like, hey, look what might happen.
+
+399
+00:13:19.500 --> 00:13:21.500
+Oh my God. And they're like,
+
+400
+00:13:21.500 --> 00:13:23.500
+fuck off. The law doesn't tell me I have to do this.
+
+401
+00:13:23.500 --> 00:13:25.500
+I'm not going to worry about it.
+
+402
+00:13:25.500 --> 00:13:27.500
+Where it does come back into play though
+
+403
+00:13:27.500 --> 00:13:29.500
+a lot is when you think about the
+
+404
+00:13:29.500 --> 00:13:31.500
+damage, the risks
+
+405
+00:13:31.500 --> 00:13:33.500
+when you're designing
+
+406
+00:13:33.500 --> 00:13:35.500
+this and these four categories
+
+407
+00:13:35.500 --> 00:13:37.500
+I have written here, safety, financial,
+
+408
+00:13:37.500 --> 00:13:39.500
+operational privacy. This is like the
+
+409
+00:13:39.500 --> 00:13:41.500
+four most commonly
+
+410
+00:13:41.500 --> 00:13:43.500
+found impact
+
+411
+00:13:43.500 --> 00:13:45.500
+categories. But they're not the only ones.
+
+412
+00:13:45.500 --> 00:13:47.500
+I've seen a client
+
+413
+00:13:47.500 --> 00:13:49.500
+who has actually two additional ones.
+
+414
+00:13:49.500 --> 00:13:51.500
+One of them is reputation.
+
+415
+00:13:51.500 --> 00:13:53.500
+Does, you know,
+
+416
+00:13:53.500 --> 00:13:55.500
+would this damage scenario severely damage
+
+417
+00:13:55.500 --> 00:13:57.500
+our reputation? Like if the damage
+
+418
+00:13:57.500 --> 00:13:59.500
+scenario was something like ransomware
+
+419
+00:13:59.500 --> 00:14:01.500
+of the entire vehicle. Oh my
+
+420
+00:14:01.500 --> 00:14:03.500
+God. Every
+
+421
+00:14:03.500 --> 00:14:05.500
+car from this brand is just not starting,
+
+422
+00:14:05.500 --> 00:14:07.500
+right? It's a huge reputational
+
+423
+00:14:07.500 --> 00:14:09.500
+damage. Some companies will quantify that.
+
+424
+00:14:09.500 --> 00:14:11.500
+Some don't.
+
+425
+00:14:11.500 --> 00:14:13.500
+The other one that they had was like cyber security
+
+426
+00:14:13.500 --> 00:14:15.500
+as its own
+
+427
+00:14:15.500 --> 00:14:17.500
+like impact category. And this is like does
+
+428
+00:14:17.500 --> 00:14:19.500
+this cyber security,
+
+429
+00:14:19.500 --> 00:14:21.500
+does this damage scenario
+
+430
+00:14:21.500 --> 00:14:23.500
+implicate the cyber security of our
+
+431
+00:14:23.500 --> 00:14:25.500
+whole company? Like what if an attack
+
+432
+00:14:25.500 --> 00:14:27.500
+of this type
+
+433
+00:14:27.500 --> 00:14:29.500
+can like lead to further
+
+434
+00:14:29.500 --> 00:14:31.500
+priviting into our own backend
+
+435
+00:14:31.500 --> 00:14:33.500
+systems, into our backend system, into our
+
+436
+00:14:33.500 --> 00:14:35.500
+corporate IT networks, right?
+
+437
+00:14:35.500 --> 00:14:37.500
+If there's possibility for that,
+
+438
+00:14:37.500 --> 00:14:39.500
+much higher rating, right? And it's just
+
+439
+00:14:39.500 --> 00:14:41.500
+a matter of what the company wants to do. So you'll
+
+440
+00:14:41.500 --> 00:14:43.500
+find that 90%
+
+441
+00:14:43.500 --> 00:14:45.500
+of companies will just kind of take the cookie cutter
+
+442
+00:14:45.500 --> 00:14:47.500
+of these standard four ones. But then some of
+
+443
+00:14:47.500 --> 00:14:49.500
+them will have their own more defined
+
+444
+00:14:49.500 --> 00:14:51.500
+additional categories
+
+445
+00:14:51.500 --> 00:14:53.500
+that they're evaluating risk on.
+
+446
+00:14:53.500 --> 00:14:55.500
+When you
+
+447
+00:14:55.500 --> 00:14:57.500
+talk about that, and then we
+
+448
+00:14:57.500 --> 00:14:59.500
+spoke about this briefly
+
+449
+00:14:59.500 --> 00:15:01.500
+when we had dinner
+
+450
+00:15:01.500 --> 00:15:03.500
+a couple of weeks ago, but
+
+451
+00:15:03.500 --> 00:15:05.500
+which
+
+452
+00:15:05.500 --> 00:15:07.500
+companies would you say
+
+453
+00:15:07.500 --> 00:15:09.500
+are the
+
+454
+00:15:09.500 --> 00:15:11.500
+most interested in your experience
+
+455
+00:15:11.500 --> 00:15:13.500
+in like maybe would have their own
+
+456
+00:15:13.500 --> 00:15:15.500
+customized Terra
+
+457
+00:15:15.500 --> 00:15:17.500
+and which ones are still only
+
+458
+00:15:17.500 --> 00:15:19.500
+doing it because they have to. And I'm talking about
+
+459
+00:15:19.500 --> 00:15:21.500
+investing in cyber security, right?
+
+460
+00:15:23.500 --> 00:15:25.500
+It's hard to say. Like every company
+
+461
+00:15:25.500 --> 00:15:27.500
+is doing it. But like
+
+462
+00:15:27.500 --> 00:15:29.500
+the newer
+
+463
+00:15:29.500 --> 00:15:31.500
+like electric vehicle companies,
+
+464
+00:15:31.500 --> 00:15:33.500
+they are, in my
+
+465
+00:15:33.500 --> 00:15:35.500
+experience, more
+
+466
+00:15:35.500 --> 00:15:37.500
+accepting of the concept of cyber
+
+467
+00:15:37.500 --> 00:15:39.500
+security for cars. They're more accepting
+
+468
+00:15:39.500 --> 00:15:41.500
+of the car hacking communities.
+
+469
+00:15:41.500 --> 00:15:43.500
+They're more accepting of people
+
+470
+00:15:43.500 --> 00:15:45.500
+submitting vulnerabilities to them. They won't
+
+471
+00:15:45.500 --> 00:15:47.500
+treat you like with hostility.
+
+472
+00:15:47.500 --> 00:15:49.500
+Like they
+
+473
+00:15:49.500 --> 00:15:51.500
+invite hackers to their
+
+474
+00:15:53.500 --> 00:15:55.500
+premises, say, hey,
+
+475
+00:15:55.500 --> 00:15:57.500
+we're going to buy you a hotel,
+
+476
+00:15:57.500 --> 00:15:59.500
+get you a hotel room, fly you out. We'll keep
+
+477
+00:15:59.500 --> 00:16:01.500
+you here for a week. We'll feed you.
+
+478
+00:16:01.500 --> 00:16:03.500
+Let's just look like
+
+479
+00:16:03.500 --> 00:16:05.500
+let's have a bug bash. We'll have an actual
+
+480
+00:16:05.500 --> 00:16:07.500
+like private bug bounty event
+
+481
+00:16:07.500 --> 00:16:09.500
+where if you find vulnerabilities in our
+
+482
+00:16:09.500 --> 00:16:11.500
+systems, we'll pay you.
+
+483
+00:16:11.500 --> 00:16:13.500
+So we'll get you up. Like I got an invitation
+
+484
+00:16:13.500 --> 00:16:15.500
+to one of these this morning. Like not to
+
+485
+00:16:15.500 --> 00:16:17.500
+brag, but like I'm going to Italy
+
+486
+00:16:17.500 --> 00:16:19.500
+a week on the client's dime
+
+487
+00:16:19.500 --> 00:16:21.500
+to hang out and
+
+488
+00:16:21.500 --> 00:16:23.500
+hack their systems. And if I find
+
+489
+00:16:23.500 --> 00:16:25.500
+vulnerabilities, they might pay me, right?
+
+490
+00:16:25.500 --> 00:16:27.500
+Like the more modern companies
+
+491
+00:16:27.500 --> 00:16:29.500
+that have good established like cyber security
+
+492
+00:16:29.500 --> 00:16:31.500
+leadership, they're
+
+493
+00:16:31.500 --> 00:16:33.500
+invested into doing this. The older
+
+494
+00:16:33.500 --> 00:16:35.500
+traditional cyber security industry,
+
+495
+00:16:35.500 --> 00:16:37.500
+or excuse me, automotive industry, is
+
+496
+00:16:37.500 --> 00:16:39.500
+not been as
+
+497
+00:16:39.500 --> 00:16:41.500
+forward about it. They're more reluctant.
+
+498
+00:16:41.500 --> 00:16:43.500
+It's kind of a much like, you know, we have to do it. So
+
+499
+00:16:43.500 --> 00:16:45.500
+anything like you think of like Nissan,
+
+500
+00:16:45.500 --> 00:16:47.500
+Honda, especially Japanese companies,
+
+501
+00:16:47.500 --> 00:16:49.500
+these companies are very much like
+
+502
+00:16:49.500 --> 00:16:51.500
+compliance checkbox security
+
+503
+00:16:51.500 --> 00:16:53.500
+in my experience, right? Like
+
+504
+00:16:53.500 --> 00:16:55.500
+they're much more, we're just
+
+505
+00:16:55.500 --> 00:16:57.500
+doing what we have to get the paperwork
+
+506
+00:16:57.500 --> 00:16:59.500
+and then if we get hacked later,
+
+507
+00:16:59.500 --> 00:17:01.500
+then well, that's what we have an incident response process
+
+508
+00:17:01.500 --> 00:17:03.500
+for. They're not actively trying to like
+
+509
+00:17:03.500 --> 00:17:05.500
+eliminate bugs on a regular basis,
+
+510
+00:17:05.500 --> 00:17:07.500
+right? But you look at companies like
+
+511
+00:17:07.500 --> 00:17:09.500
+Lucid Motors, like Sear,
+
+512
+00:17:09.500 --> 00:17:11.500
+like Tesla. Tesla
+
+513
+00:17:11.500 --> 00:17:13.500
+is like, they invest a lot
+
+514
+00:17:13.500 --> 00:17:15.500
+in their cyber security programs. They
+
+515
+00:17:15.500 --> 00:17:17.500
+literally will give you root access to your
+
+516
+00:17:17.500 --> 00:17:19.500
+car to help you look for vulnerabilities.
+
+517
+00:17:19.500 --> 00:17:21.500
+If you've demonstrated, like if you've submitted a
+
+518
+00:17:21.500 --> 00:17:23.500
+vulnerability to Tesla in the past,
+
+519
+00:17:23.500 --> 00:17:25.500
+they have like a ledger of
+
+520
+00:17:25.500 --> 00:17:27.500
+like known security researchers.
+
+521
+00:17:27.500 --> 00:17:29.500
+They will help you hack your car.
+
+522
+00:17:29.500 --> 00:17:31.500
+Like they will tell you like, hey,
+
+523
+00:17:31.500 --> 00:17:33.500
+we've unlocked root on your car. You can SSH
+
+524
+00:17:33.500 --> 00:17:35.500
+into it now. Go ahead,
+
+525
+00:17:35.500 --> 00:17:37.500
+find some more vulnerabilities and tell us about them and we'll pay
+
+526
+00:17:37.500 --> 00:17:39.500
+you like six figure payouts.
+
+527
+00:17:39.500 --> 00:17:41.500
+Like if you look up like the Pwn2Own competition,
+
+528
+00:17:41.500 --> 00:17:43.500
+Tesla is consistently a sponsor
+
+529
+00:17:43.500 --> 00:17:45.500
+of this competition
+
+530
+00:17:45.500 --> 00:17:47.500
+because they have that like appreciation
+
+531
+00:17:47.500 --> 00:17:49.500
+for cyber security. If you also,
+
+532
+00:17:49.500 --> 00:17:50.000
+if you know, I'm going to do this bit of like selfish
